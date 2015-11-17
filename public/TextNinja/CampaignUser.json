@@ -1,0 +1,2977 @@
+{ "results": [
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "zUiEUVdJ2s"
+        },
+        "createdAt": "2015-10-04T03:50:33.107Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-03T22:50:32.856Z"
+        },
+        "minutes": 0,
+        "objectId": "07VXYwsvA0",
+        "points": 0,
+        "updatedAt": "2015-10-04T03:50:33.107Z",
+        "userName": "Nancy Martinazzison"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "WvxlP9acfT"
+        },
+        "createdAt": "2015-08-13T00:42:38.660Z",
+        "distractionsPrevented": 0,
+        "endBelt": 2,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-12T18:42:38.065Z"
+        },
+        "minutes": 0,
+        "objectId": "0nZ85qIxcS",
+        "points": 0,
+        "startBelt": 2,
+        "updatedAt": "2015-11-05T04:00:07.491Z",
+        "userName": "Charles Warren",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-07T17:37:46.013Z"
+        },
+        "createdAt": "2015-06-27T22:49:56.107Z",
+        "distractionsPrevented": 9,
+        "endBelt": 0,
+        "finalDistPrev": 9,
+        "finalMinutes": 522,
+        "finalPoints": 540,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 524,
+        "objectId": "1M0vtsXArX",
+        "points": 542,
+        "startBelt": 0,
+        "updatedAt": "2015-10-07T22:37:48.448Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "aPD3WKQDF2"
+        },
+        "createdAt": "2015-09-27T19:37:53.941Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-27T14:37:52.292Z"
+        },
+        "minutes": 0,
+        "objectId": "1gTTqZAY2M",
+        "points": 0,
+        "updatedAt": "2015-09-27T19:37:53.941Z",
+        "userName": "Anthony Sontag"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "C8fcZCRYwG"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-18T08:29:34.965Z"
+        },
+        "createdAt": "2015-08-09T21:41:48.165Z",
+        "distractionsPrevented": 1,
+        "endBelt": 0,
+        "finalDistPrev": 1,
+        "finalMinutes": 0,
+        "finalPoints": 134,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-09T16:41:47.603Z"
+        },
+        "minutes": 0,
+        "objectId": "1xpdQ6RD3o",
+        "points": 134,
+        "startBelt": 0,
+        "updatedAt": "2015-11-05T04:00:07.701Z",
+        "userName": "Sandra Panditson",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "SgL8lQlPmM"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-09-30T11:39:52.560Z"
+        },
+        "createdAt": "2015-09-16T20:05:12.372Z",
+        "distractionsPrevented": 0,
+        "endBelt": 2,
+        "finalDistPrev": 0,
+        "finalMinutes": 103,
+        "finalPoints": 103,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-16T14:05:09.177Z"
+        },
+        "minutes": 103,
+        "objectId": "2xXPzGhHQp",
+        "points": 103,
+        "startBelt": 2,
+        "updatedAt": "2015-09-30T17:39:56.357Z",
+        "userName": "James Arellano"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "SgL8lQlPmM"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-09-30T11:39:52.560Z"
+        },
+        "createdAt": "2015-08-23T16:40:03.695Z",
+        "distractionsPrevented": 1,
+        "finalDistPrev": 1,
+        "finalMinutes": 212,
+        "finalPoints": 213,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-23T10:40:02.008Z"
+        },
+        "minutes": 212,
+        "objectId": "3zjRlE8bzZ",
+        "points": 213,
+        "updatedAt": "2015-09-30T17:39:56.414Z",
+        "userName": "James Arellano",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ss2FCNaIpB"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "createdAt": "2015-04-23T01:04:43.556Z",
+        "distractionsPrevented": 8,
+        "endBelt": 0,
+        "finalDistPrev": 8,
+        "finalMinutes": 0,
+        "finalPoints": 839,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-22T20:04:42.963Z"
+        },
+        "minutes": 0,
+        "objectId": "423aL5AoO9",
+        "points": 839,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:45.658Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "VFJ390Any8"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-09-07T19:53:04.042Z"
+        },
+        "createdAt": "2015-07-29T01:52:44.524Z",
+        "distractionsPrevented": 2,
+        "endBelt": 1,
+        "finalDistPrev": 2,
+        "finalMinutes": 333,
+        "finalPoints": 335,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-28T20:52:43.255Z"
+        },
+        "minutes": 333,
+        "objectId": "4ItCs5v0RH",
+        "points": 335,
+        "startBelt": 1,
+        "updatedAt": "2015-09-08T00:53:05.804Z",
+        "userName": "Kevin Fadden",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "do8ZBmBrlW"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-09-15T16:14:45.152Z"
+        },
+        "createdAt": "2015-09-15T19:17:27.678Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 1,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-15T14:17:24.712Z"
+        },
+        "minutes": 0,
+        "objectId": "565cuTKZpl",
+        "points": 1,
+        "updatedAt": "2015-09-15T21:14:46.851Z",
+        "userName": "Nancy Qinman"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "DDRu8sSnr2"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-07-02T12:08:50.677Z"
+        },
+        "createdAt": "2015-06-27T22:49:57.123Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "6Ra5v3CXdi",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:46.529Z",
+        "userName": "Jim User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Rg6rlmZZtj"
+        },
+        "createdAt": "2015-06-27T22:46:56.296Z",
+        "distractionsPrevented": 0,
+        "endBelt": 3,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "7PpYO4b8oM",
+        "points": 0,
+        "startBelt": 3,
+        "updatedAt": "2015-09-06T04:33:46.885Z",
+        "userName": "Roman Maksymec",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-07-27T03:39:00.366Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-26T22:38:59.298Z"
+        },
+        "minutes": 0,
+        "objectId": "84itMEXByE",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:33:47.271Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "acWeMbnJHl"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-04-05T21:38:58.291Z"
+        },
+        "createdAt": "2015-03-28T15:44:19.663Z",
+        "distractionsPrevented": 40,
+        "endBelt": 0,
+        "finalDistPrev": 40,
+        "finalMinutes": 80,
+        "finalPoints": 60,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-03-28T10:44:12.010Z"
+        },
+        "minutes": 80,
+        "objectId": "8HPJdzgF4G",
+        "points": 60,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:47.557Z",
+        "userName": "TestUser2",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "mditig5KN1"
+        },
+        "createdAt": "2015-06-27T22:49:59.369Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "8Omb8arL6k",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:33:47.930Z",
+        "userName": "John Zuckersky",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "KsBwkQjsAM"
+        },
+        "createdAt": "2015-06-27T22:47:06.401Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "8qCrZJXtG8",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:33:48.316Z",
+        "userName": "Dave User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Rg6rlmZZtj"
+        },
+        "createdAt": "2015-06-27T22:49:53.904Z",
+        "distractionsPrevented": 0,
+        "endBelt": 3,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "8tIuAMRqaw",
+        "points": 0,
+        "startBelt": 3,
+        "updatedAt": "2015-09-06T04:33:48.684Z",
+        "userName": "Roman Maksymec",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "createdAt": "2015-04-19T20:18:39.343Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-19T15:18:51.613Z"
+        },
+        "minutes": 0,
+        "objectId": "94hwLXPD1g",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:49.026Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-07T09:57:32.326Z"
+        },
+        "createdAt": "2015-06-27T22:49:55.181Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "9fEvUuBGAy",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:33:49.334Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "hoz4rSZZMo"
+        },
+        "createdAt": "2015-10-04T03:54:09.652Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2016-04-30T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-03T22:54:07.868Z"
+        },
+        "minutes": 0,
+        "objectId": "9mtuJo7cI5",
+        "points": 0,
+        "updatedAt": "2015-10-04T03:54:09.652Z",
+        "userName": "Monte Kirk"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ss2FCNaIpB"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-04-21T23:45:06.294Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-21T18:45:05.531Z"
+        },
+        "minutes": 0,
+        "objectId": "AKfvR2bQaT",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:33:49.662Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "aPD3WKQDF2"
+        },
+        "createdAt": "2015-09-27T19:38:29.675Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2016-04-30T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-27T14:38:27.552Z"
+        },
+        "minutes": 0,
+        "objectId": "CsGnhh9K4B",
+        "points": 0,
+        "updatedAt": "2015-09-27T19:38:29.675Z",
+        "userName": "Anthony Sontag"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "KsBwkQjsAM"
+        },
+        "createdAt": "2015-06-27T22:50:00.872Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "EKtPcGCMIr",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:33:50.043Z",
+        "userName": "Dave User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "WvxlP9acfT"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-01T18:08:55.476Z"
+        },
+        "createdAt": "2015-09-04T22:15:48.753Z",
+        "distractionsPrevented": 2,
+        "endBelt": 3,
+        "finalDistPrev": 2,
+        "finalMinutes": 947,
+        "finalPoints": 949,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-04T17:15:42.118Z"
+        },
+        "minutes": 947,
+        "objectId": "EZx6CQpJKM",
+        "points": 949,
+        "startBelt": 3,
+        "updatedAt": "2015-10-02T00:08:55.993Z",
+        "userName": "Charles Warren"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "DDRu8sSnr2"
+        },
+        "createdAt": "2015-07-24T19:16:22.306Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-24T14:16:22.031Z"
+        },
+        "minutes": 0,
+        "objectId": "FGqQt8GNRl",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:33:50.713Z",
+        "userName": "Jim User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "zctGZ2pmcg"
+        },
+        "createdAt": "2015-06-27T22:47:02.949Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "GmplYxKgz3",
+        "points": 0,
+        "updatedAt": "2015-09-06T04:33:51.083Z",
+        "userName": "Nick Maschinski",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-09T10:08:50.035Z"
+        },
+        "createdAt": "2015-06-27T22:47:00.568Z",
+        "distractionsPrevented": 39,
+        "endBelt": 0,
+        "finalDistPrev": 39,
+        "finalMinutes": 713,
+        "finalPoints": 761,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 713,
+        "objectId": "GpBHCBtTfa",
+        "points": 761,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:51.245Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "IIqJwMEhc1"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-08T17:35:57.060Z"
+        },
+        "createdAt": "2015-08-15T23:15:14.527Z",
+        "distractionsPrevented": 6,
+        "endBelt": 2,
+        "finalDistPrev": 6,
+        "finalMinutes": 2065,
+        "finalPoints": 2075,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-15T17:11:42.382Z"
+        },
+        "minutes": 2065,
+        "objectId": "Gsc4OsImqv",
+        "points": 2075,
+        "startBelt": 2,
+        "updatedAt": "2015-10-08T23:36:01.907Z",
+        "userName": "Joel Gestner",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "RU6tlhYTN6"
+        },
+        "createdAt": "2015-08-25T21:36:02.166Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T16:36:00.605Z"
+        },
+        "minutes": 0,
+        "objectId": "HEzZhohHWV",
+        "points": 0,
+        "updatedAt": "2015-09-06T04:33:52.909Z",
+        "userName": "John Liangberg",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "hoz4rSZZMo"
+        },
+        "createdAt": "2015-10-04T03:49:47.721Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-03T22:49:46.383Z"
+        },
+        "minutes": 0,
+        "objectId": "Hg9Sygjteq",
+        "points": 0,
+        "updatedAt": "2015-10-04T03:49:47.721Z",
+        "userName": "Monte Kirk"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "VFJ390Any8"
+        },
+        "createdAt": "2015-09-16T18:23:51.153Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2016-04-30T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-16T13:23:47.547Z"
+        },
+        "minutes": 0,
+        "objectId": "IDx2kzo2me",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-16T18:23:51.153Z",
+        "userName": "Kevin Fadden"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-08-18T16:53:31.273Z",
+        "distractionsPrevented": 0,
+        "endBelt": 6,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-18T11:53:27.377Z"
+        },
+        "minutes": 0,
+        "objectId": "IvVD7EMHef",
+        "points": 0,
+        "startBelt": 6,
+        "updatedAt": "2015-09-06T04:33:53.192Z",
+        "userName": "Will Huiman",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-08-19T05:07:36.137Z",
+        "distractionsPrevented": 0,
+        "endBelt": 6,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-19T00:07:33.918Z"
+        },
+        "minutes": 0,
+        "objectId": "K447bRodmt",
+        "points": 0,
+        "startBelt": 6,
+        "updatedAt": "2015-11-05T04:00:08.508Z",
+        "userName": "Will Huiman",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "dzhtzii33n"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-22T23:22:00.588Z"
+        },
+        "createdAt": "2015-08-13T21:00:54.433Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 274,
+        "finalPoints": 276,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-13T17:00:53.282Z"
+        },
+        "minutes": 274,
+        "objectId": "KTcbMoLDlK",
+        "points": 276,
+        "updatedAt": "2015-09-06T04:33:53.732Z",
+        "userName": "Heather Fugett",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ss2FCNaIpB"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "C8fcZCRYwG"
+        },
+        "createdAt": "2015-05-15T17:31:29.837Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 1,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-06-30T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-05-15T12:31:25.823Z"
+        },
+        "minutes": 0,
+        "objectId": "LnghNgL20n",
+        "points": 1,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:33:54.100Z",
+        "userName": "Sandra Panditson",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "acWeMbnJHl"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-06-28T14:51:05.465Z"
+        },
+        "createdAt": "2015-06-27T22:46:54.306Z",
+        "distractionsPrevented": 1,
+        "endBelt": 0,
+        "finalDistPrev": 1,
+        "finalMinutes": 2,
+        "finalPoints": 3,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 2,
+        "objectId": "M8UGj8HIg6",
+        "points": 3,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:54.867Z",
+        "userName": "TestUser2",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "EdqICbr4Us"
+        },
+        "createdAt": "2015-08-12T02:57:50.500Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-11T21:57:47.580Z"
+        },
+        "minutes": 0,
+        "objectId": "MLrghvAQau",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:55.166Z",
+        "userName": "Jess Goodwin",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "IIqJwMEhc1"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-08T17:35:57.060Z"
+        },
+        "createdAt": "2015-08-26T23:55:55.582Z",
+        "distractionsPrevented": 5,
+        "endBelt": 4,
+        "finalDistPrev": 5,
+        "finalMinutes": 1539,
+        "finalPoints": 1547,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-26T17:50:49.682Z"
+        },
+        "minutes": 1539,
+        "objectId": "MQLcs7njjs",
+        "points": 1547,
+        "startBelt": 4,
+        "updatedAt": "2015-10-08T23:35:59.199Z",
+        "userName": "Joel Gestner",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "C8fcZCRYwG"
+        },
+        "createdAt": "2015-08-11T01:35:09.795Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-10T20:35:07.295Z"
+        },
+        "minutes": 0,
+        "objectId": "MfKJCsuaZV",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:55.999Z",
+        "userName": "Sandra Panditson",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "x4sdEjhPEX"
+        },
+        "createdAt": "2015-08-13T22:10:20.494Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 1,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-13T18:10:20.176Z"
+        },
+        "minutes": 0,
+        "objectId": "MztfPPEJ6F",
+        "points": 1,
+        "updatedAt": "2015-11-05T04:00:08.826Z",
+        "userName": "Bambi Day",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "b7VNh02Aav"
+        },
+        "createdAt": "2015-06-27T22:46:41.880Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "NMlaPA1sVz",
+        "points": 0,
+        "updatedAt": "2015-09-06T04:33:56.706Z",
+        "userName": "Puddi Chan",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "AHoVvs0LGf"
+        },
+        "createdAt": "2015-04-19T03:20:57.529Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-18T22:20:50.019Z"
+        },
+        "minutes": 0,
+        "objectId": "OITwWSv6r5",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:57.062Z",
+        "userName": "TestUser1",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "mditig5KN1"
+        },
+        "createdAt": "2015-06-27T22:47:05.479Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "Qevm8gRajM",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:33:57.335Z",
+        "userName": "John Zuckersky",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "VFJ390Any8"
+        },
+        "createdAt": "2015-09-16T18:23:48.335Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-16T13:23:46.159Z"
+        },
+        "minutes": 0,
+        "objectId": "R3UaWd2d6b",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-16T18:23:48.335Z",
+        "userName": "Kevin Fadden"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "7P02mpu9Du"
+        },
+        "createdAt": "2015-06-27T22:50:05.323Z",
+        "distractionsPrevented": 0,
+        "endBelt": 2,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "R8lxkn4MaH",
+        "points": 0,
+        "startBelt": 2,
+        "updatedAt": "2015-09-06T04:33:58.034Z",
+        "userName": "Michael Kelly",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "n4kvTvujaU"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-29T16:50:07.276Z"
+        },
+        "createdAt": "2015-10-29T18:16:37.299Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 12,
+        "finalPoints": 17,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-29T13:16:36.377Z"
+        },
+        "minutes": 12,
+        "objectId": "RJapOhUEsE",
+        "points": 17,
+        "updatedAt": "2015-10-29T21:50:08.362Z",
+        "userName": "Patricia Lisen"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "createdAt": "2015-04-19T20:18:59.266Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-19T15:19:11.457Z"
+        },
+        "minutes": 0,
+        "objectId": "V7WCxoVG8q",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:58.288Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "IIqJwMEhc1"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-26T17:47:59.097Z"
+        },
+        "createdAt": "2015-08-15T23:12:00.857Z",
+        "distractionsPrevented": 1,
+        "endBelt": 2,
+        "finalDistPrev": 1,
+        "finalMinutes": 358,
+        "finalPoints": 359,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-15T17:08:28.690Z"
+        },
+        "minutes": 358,
+        "objectId": "WGzIyGIE8n",
+        "points": 359,
+        "startBelt": 2,
+        "updatedAt": "2015-09-06T04:33:58.724Z",
+        "userName": "Joel Gestner",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "7P02mpu9Du"
+        },
+        "createdAt": "2015-06-27T22:46:58.804Z",
+        "distractionsPrevented": 0,
+        "endBelt": 2,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "Wic5abCC6t",
+        "points": 0,
+        "startBelt": 2,
+        "updatedAt": "2015-09-06T04:33:59.134Z",
+        "userName": "Michael Kelly",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "ZiyZKS0o5S"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-25T11:47:22.788Z"
+        },
+        "createdAt": "2015-10-20T13:46:43.850Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 55,
+        "finalPoints": 60,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-20T08:46:25.631Z"
+        },
+        "minutes": 55,
+        "objectId": "WnGWOONdYY",
+        "points": 60,
+        "updatedAt": "2015-10-25T16:47:25.082Z",
+        "userName": "Matthew Cowan"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "Fd3lKdF8dx"
+        },
+        "createdAt": "2015-08-12T21:51:29.050Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-12T17:51:27.584Z"
+        },
+        "minutes": 0,
+        "objectId": "XF3hwl68pb",
+        "points": 0,
+        "updatedAt": "2015-11-05T04:00:09.238Z",
+        "userName": "Trixie Ashford",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "EdqICbr4Us"
+        },
+        "createdAt": "2015-08-24T20:35:43.986Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-24T15:35:41.139Z"
+        },
+        "minutes": 0,
+        "objectId": "YXJF2QmiZI",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:33:59.896Z",
+        "userName": "Jess Goodwin",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "createdAt": "2015-04-23T00:48:00.589Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-22T19:48:00.053Z"
+        },
+        "minutes": 0,
+        "objectId": "Z4rGCSCVoT",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:00.056Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "C8fcZCRYwG"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-12T15:34:54.388Z"
+        },
+        "createdAt": "2015-06-27T22:47:04.303Z",
+        "distractionsPrevented": 0,
+        "endBelt": 3,
+        "finalDistPrev": 0,
+        "finalMinutes": 8,
+        "finalPoints": 9,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 8,
+        "objectId": "ZXubBiZerc",
+        "points": 9,
+        "startBelt": 3,
+        "updatedAt": "2015-09-06T04:34:00.355Z",
+        "userName": "Sandra Panditson",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "do8ZBmBrlW"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-09-15T16:14:45.152Z"
+        },
+        "createdAt": "2015-09-15T21:10:45.306Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 1,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-15T16:10:44.126Z"
+        },
+        "minutes": 0,
+        "objectId": "amlYdhPTil",
+        "points": 1,
+        "startBelt": 0,
+        "updatedAt": "2015-09-15T21:14:47.414Z",
+        "userName": "Nancy Qinman"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "ZiyZKS0o5S"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-25T11:47:22.788Z"
+        },
+        "createdAt": "2015-10-20T13:40:36.863Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 55,
+        "finalPoints": 61,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-20T08:40:19.629Z"
+        },
+        "minutes": 55,
+        "objectId": "b3BRYmnI2A",
+        "points": 61,
+        "updatedAt": "2015-10-25T16:47:24.697Z",
+        "userName": "Matthew Cowan"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "XrJ5qVdJ3X"
+        },
+        "createdAt": "2015-09-26T22:48:13.447Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2016-04-30T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-26T17:48:13.323Z"
+        },
+        "minutes": 0,
+        "objectId": "c1hbsgBNq1",
+        "points": 0,
+        "updatedAt": "2015-09-26T22:48:13.447Z",
+        "userName": "eCARcOIOvz2Xum3CdSdlvHk93"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "DDRu8sSnr2"
+        },
+        "createdAt": "2015-05-04T23:42:26.059Z",
+        "distractionsPrevented": 0,
+        "endBelt": 2,
+        "finalDistPrev": 0,
+        "finalMinutes": 32,
+        "finalPoints": 32,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-05-04T18:42:24.650Z"
+        },
+        "minutes": 32,
+        "objectId": "cewOyKEsKP",
+        "points": 32,
+        "startBelt": 2,
+        "updatedAt": "2015-09-06T04:34:00.657Z",
+        "userName": "Jim User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "EdqICbr4Us"
+        },
+        "createdAt": "2015-08-12T02:57:58.200Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-11T21:57:55.665Z"
+        },
+        "minutes": 0,
+        "objectId": "dLpvQySgSZ",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-11-05T04:00:09.590Z",
+        "userName": "Jess Goodwin",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "WvxlP9acfT"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-01T18:08:55.476Z"
+        },
+        "createdAt": "2015-08-26T22:09:49.864Z",
+        "distractionsPrevented": 3,
+        "endBelt": 2,
+        "finalDistPrev": 3,
+        "finalMinutes": 1171,
+        "finalPoints": 1177,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-26T16:09:48.673Z"
+        },
+        "minutes": 1171,
+        "objectId": "dnKd76BzRN",
+        "points": 1177,
+        "startBelt": 2,
+        "updatedAt": "2015-10-02T00:08:55.921Z",
+        "userName": "Charles Warren",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "d7YtIGIFGc"
+        },
+        "createdAt": "2015-09-15T15:19:39.320Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-15T10:19:38.670Z"
+        },
+        "minutes": 0,
+        "objectId": "edQXlltnvP",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-15T15:19:39.320Z",
+        "userName": "Dorothy Okelolasky"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "n4kvTvujaU"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-29T16:50:07.276Z"
+        },
+        "createdAt": "2015-10-04T03:47:47.870Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 12,
+        "finalPoints": 17,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-03T22:47:47.380Z"
+        },
+        "minutes": 12,
+        "objectId": "fQ7FB9YTAN",
+        "points": 17,
+        "updatedAt": "2015-10-29T21:50:08.301Z",
+        "userName": "Patricia Lisen"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "C8fcZCRYwG"
+        },
+        "createdAt": "2015-07-20T23:02:55.871Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-20T18:02:52.089Z"
+        },
+        "minutes": 0,
+        "objectId": "gX7EmbiRiB",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:01.666Z",
+        "userName": "Sandra Panditson",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "AHoVvs0LGf"
+        },
+        "createdAt": "2015-03-27T02:05:06.593Z",
+        "distractionsPrevented": 20,
+        "endBelt": 0,
+        "finalDistPrev": 20,
+        "finalMinutes": 40,
+        "finalPoints": 60,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-03-26T21:05:02.353Z"
+        },
+        "minutes": 40,
+        "objectId": "goWo2o8kUe",
+        "points": 60,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:01.962Z",
+        "userName": "TestUser1",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "EdqICbr4Us"
+        },
+        "createdAt": "2015-09-24T14:27:49.206Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-24T09:27:55.002Z"
+        },
+        "minutes": 0,
+        "objectId": "hS7CeA3Mpy",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-24T14:27:49.206Z",
+        "userName": "Jess Goodwin"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "createdAt": "2015-10-07T22:47:45.250Z",
+        "distractionsPrevented": 0,
+        "endBelt": 6,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-10-07T17:47:44.246Z"
+        },
+        "minutes": 0,
+        "objectId": "iqB1IkpmJc",
+        "points": 0,
+        "startBelt": 6,
+        "updatedAt": "2015-10-07T22:47:45.250Z",
+        "userName": "Pedro Ramirez"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "FahRyWrrel"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-10-07T17:37:46.013Z"
+        },
+        "createdAt": "2015-08-13T20:29:03.453Z",
+        "distractionsPrevented": 13,
+        "endBelt": 5,
+        "finalDistPrev": 13,
+        "finalMinutes": 482,
+        "finalPoints": 971,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-13T15:29:00.887Z"
+        },
+        "minutes": 0,
+        "objectId": "jYDYavMijl",
+        "points": 971,
+        "startBelt": 5,
+        "updatedAt": "2015-11-05T04:00:09.798Z",
+        "userName": "Pedro Ramirez",
+        "versionCU": 1
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "AHoVvs0LGf"
+        },
+        "createdAt": "2015-06-27T22:46:53.295Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "jsn2R0blqW",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:02.653Z",
+        "userName": "TestUser1",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "IIqJwMEhc1"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-31T17:54:26.293Z"
+        },
+        "createdAt": "2015-08-28T05:54:06.636Z",
+        "distractionsPrevented": 3,
+        "endBelt": 5,
+        "finalDistPrev": 3,
+        "finalMinutes": 0,
+        "finalPoints": 302,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:23:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-27T23:54:04.544Z"
+        },
+        "minutes": 0,
+        "objectId": "jtGqq5WHt1",
+        "points": 302,
+        "startBelt": 5,
+        "updatedAt": "2015-11-05T04:00:09.983Z",
+        "userName": "Joel Gestner"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "dzhtzii33n"
+        },
+        "createdAt": "2015-08-13T21:02:22.069Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 274,
+        "finalPoints": 276,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-13T17:02:21.600Z"
+        },
+        "minutes": 274,
+        "objectId": "kHUtDiyzAh",
+        "points": 276,
+        "updatedAt": "2015-09-06T04:34:03.316Z",
+        "userName": "Heather Fugett",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "DDRu8sSnr2"
+        },
+        "createdAt": "2015-06-27T22:47:01.549Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "kaDCkHnVAT",
+        "points": 0,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:03.627Z",
+        "userName": "Jim User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "b7VNh02Aav"
+        },
+        "createdAt": "2015-06-27T22:50:02.878Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "kyvAaIhvpQ",
+        "points": 0,
+        "updatedAt": "2015-09-06T04:34:03.851Z",
+        "userName": "Puddi Chan",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-06-27T22:46:57.121Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 0,
+        "objectId": "n0YiFFFGQd",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:34:04.384Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-04-20T02:08:51.121Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-19T21:08:50.165Z"
+        },
+        "minutes": 0,
+        "objectId": "pXWKrPWDvw",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:34:04.648Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "RU6tlhYTN6"
+        },
+        "createdAt": "2015-08-25T21:36:48.177Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-08-25T16:36:46.836Z"
+        },
+        "minutes": 0,
+        "objectId": "r6DiylVZK5",
+        "points": 0,
+        "updatedAt": "2015-11-05T04:00:10.234Z",
+        "userName": "John Liangberg",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ss2FCNaIpB"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "DDRu8sSnr2"
+        },
+        "createdAt": "2015-04-29T20:57:28.441Z",
+        "distractionsPrevented": 0,
+        "endBelt": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 82,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-29T15:57:27.262Z"
+        },
+        "minutes": 0,
+        "objectId": "s6NarinxBF",
+        "points": 82,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:05.255Z",
+        "userName": "Jim User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-07-25T22:43:19.605Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 62,
+        "finalPoints": 64,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-25T17:43:18.071Z"
+        },
+        "minutes": 62,
+        "objectId": "srx9jcQN0h",
+        "points": 64,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:34:05.543Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "DDRu8sSnr2"
+        },
+        "createdAt": "2015-07-24T19:16:22.232Z",
+        "distractionsPrevented": 0,
+        "endBelt": 1,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-24T14:16:18.410Z"
+        },
+        "minutes": 0,
+        "objectId": "tqpIogiD9d",
+        "points": 0,
+        "startBelt": 1,
+        "updatedAt": "2015-09-06T04:34:05.951Z",
+        "userName": "Jim User",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "OnO0YbLQ0m"
+        },
+        "createdAt": "2015-09-14T00:38:31.714Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:00.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-13T19:38:29.745Z"
+        },
+        "minutes": 0,
+        "objectId": "ufJlpakGcs",
+        "points": 0,
+        "updatedAt": "2015-09-14T00:38:31.714Z",
+        "userName": "Karen Chengsky"
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "L5VDmS0Z2d"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-04-05T21:38:58.291Z"
+        },
+        "createdAt": "2015-03-28T15:44:20.840Z",
+        "distractionsPrevented": 40,
+        "endBelt": 0,
+        "finalDistPrev": 40,
+        "finalMinutes": 80,
+        "finalPoints": 60,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-03-28T10:44:12.010Z"
+        },
+        "minutes": 80,
+        "objectId": "v5MMKKsnys",
+        "points": 60,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:06.261Z",
+        "userName": "TestUser3",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "m97YJqizJa"
+        },
+        "createdAt": "2015-04-19T21:34:59.016Z",
+        "distractionsPrevented": 0,
+        "endBelt": 5,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-05-04T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-04-19T16:34:58.884Z"
+        },
+        "minutes": 0,
+        "objectId": "vrdpfdNgjL",
+        "points": 0,
+        "startBelt": 5,
+        "updatedAt": "2015-09-06T04:34:06.489Z",
+        "userName": "Jim Ramirez",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "L5VDmS0Z2d"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-06-28T15:04:27.850Z"
+        },
+        "createdAt": "2015-06-27T22:46:55.423Z",
+        "distractionsPrevented": 3,
+        "endBelt": 0,
+        "finalDistPrev": 3,
+        "finalMinutes": 6,
+        "finalPoints": 103,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:45:27.472Z"
+        },
+        "minutes": 6,
+        "objectId": "vyLGoSir4L",
+        "points": 103,
+        "startBelt": 0,
+        "updatedAt": "2015-09-06T04:34:06.829Z",
+        "userName": "TestUser3",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "C8fcZCRYwG"
+        },
+        "contributionDateTime": {
+            "__type": "Date",
+            "iso": "2015-08-18T08:29:34.965Z"
+        },
+        "createdAt": "2015-06-27T22:49:58.394Z",
+        "distractionsPrevented": 0,
+        "endBelt": 3,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "xMxdoJkgB8",
+        "points": 0,
+        "startBelt": 3,
+        "updatedAt": "2015-09-06T04:34:07.371Z",
+        "userName": "Sandra Panditson",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "blocks": 0,
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "zctGZ2pmcg"
+        },
+        "createdAt": "2015-06-27T22:50:04.265Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-06-27T17:49:41.733Z"
+        },
+        "minutes": 0,
+        "objectId": "y8gu0XRz9f",
+        "points": 0,
+        "updatedAt": "2015-09-06T04:34:07.702Z",
+        "userName": "Nick Maschinski",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "EdqICbr4Us"
+        },
+        "createdAt": "2015-07-26T02:14:37.840Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-07-25T21:14:37.342Z"
+        },
+        "minutes": 0,
+        "objectId": "yLMmsoVLy8",
+        "points": 0,
+        "updatedAt": "2015-09-06T04:34:07.964Z",
+        "userName": "Jess Goodwin",
+        "versionCU": 0
+    },
+	{
+        "achievementsDuring": "0x00000000",
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaigner": {
+            "__type": "Pointer",
+            "className": "_User",
+            "objectId": "XrJ5qVdJ3X"
+        },
+        "createdAt": "2015-09-26T22:44:22.313Z",
+        "distractionsPrevented": 0,
+        "finalDistPrev": 0,
+        "finalMinutes": 0,
+        "finalPoints": 0,
+        "finishedDate": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "joinDate": {
+            "__type": "Date",
+            "iso": "2015-09-26T17:44:21.636Z"
+        },
+        "minutes": 0,
+        "objectId": "yvw4uLiw5L",
+        "points": 0,
+        "updatedAt": "2015-09-26T22:44:22.313Z",
+        "userName": "eCARcOIOvz2Xum3CdSdlvHk93"
+    }
+] }

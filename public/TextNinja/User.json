@@ -1,0 +1,2747 @@
+{ "results": [
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 1,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AppVersion": "0.48",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "21",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-02-25T11:03:03.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-02-25T12:07:35.278Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-02-27T12:09:06.264Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-02-25T17:28:56.062Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-02-25T23:41:33.431Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-02-26T17:14:54.006Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-03-02T08:28:38.081Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-02-25T17:28:56.162Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-02-26T08:15:11.885Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-02-27T12:09:06.398Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-02-27T12:09:06.432Z"
+            }
+        },
+        "achievements": "2007E1003",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABADICOV4ZBDZBh1VVoZChPB3YH7xnm4JVZBC0OP1gQucnc6K2Mvr7LM3jbmgsgM4FGqBrVZCEx1fZBBEFqAP5IZCMBgZAA6bz0ZCr3FSzlkofqckgWNl7dwIwud0vfTn2P6IV5zaK68AaPQVjoX8QHo2Cyf3B3bMNrCBGZAQkwLLYVSrJbAv2is4OUZD",
+                "expiration_date": "2015-04-26T11:03:03.461Z",
+                "id": "842195425853368"
+            }
+        },
+        "autoReplies": 11,
+        "bcryptPassword": "$2a$10$NMHgl06yyOzx.dmxkPw6I.E21vELp3azkE5Yw54zhZ.8YzICuTJqm",
+        "belt": "Blue",
+        "beltNumber": 2,
+        "blocks": 18,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "R8lxkn4MaH"
+        },
+        "createdAt": "2015-02-25T17:03:03.610Z",
+        "firstName": "Michael",
+        "gender": "male",
+        "lastName": "Kelly",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "R8lxkn4MaH"
+        },
+        "levelPoints": 176,
+        "minutesFree": 267,
+        "objectId": "7P02mpu9Du",
+        "score": 282,
+        "sessionToken": "ARnYNabXcpEoFqDy41xSUFRHw",
+        "unlockCount": 8,
+        "updatedAt": "2015-09-14T01:01:46.308Z",
+        "username": "Michael Kelly"
+    },
+	{
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "bcryptPassword": "$2a$10$udz.mGoc4vzzIiDrhE21rOi7msnkyxEKO1Nx41LK0KgvoWHqmt0z6",
+        "belt": "Orange",
+        "beltNumber": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "KvibXov15F"
+        },
+        "createdAt": "2015-03-02T04:36:36.128Z",
+        "email": "prsafebox-tntester1@yahoo.com",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "jsn2R0blqW"
+        },
+        "objectId": "AHoVvs0LGf",
+        "sessionToken": "N5llgJyCHib6INTZ1T16eFmct",
+        "updatedAt": "2015-09-14T01:01:44.316Z",
+        "username": "TestUser1"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.68",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "18",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-07-06T18:12:14.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-08-13T19:06:38.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-08-15T15:10:43.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-08-16T11:20:04.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-08-17T11:55:28.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-08-16T11:20:04.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-07-15T10:50:24.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-08-16T10:44:27.000Z"
+            }
+        },
+        "achievements": "00EE0003",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAFrULYXp76epF2v5V7DUs3ec0HQkaGOqWvOGImZCZCczzBa2fye1GlHVgYEMqZAPlfPgF2pEfD25i0pXfy5zR7KIZAZC1mZBr9CGUVfuRZBvzWMTekKCu1WsPlyfzgwzbNacTwSTKvEZAHb3cUjamcZBJdo9KIuFZBdkRfckwDH4fy3QMnsP2RHFz9IfPQzXbtzwtwhkhDeZBop",
+                "expiration_date": "2015-10-06T13:27:55.039Z",
+                "id": "1384082981918097"
+            }
+        },
+        "autoReplies": 3,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$d3rFRWJxQPPtWaRd7VrCI.DYjH.DIX9IEiv.Dr7UJNYhl0kKTMSwG",
+        "belt": "Blue",
+        "beltNumber": 2,
+        "blocks": 3,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "1xpdQ6RD3o"
+        },
+        "createdAt": "2015-04-18T21:26:20.663Z",
+        "firstName": "Jim",
+        "gender": "male",
+        "lastName": "Ramirez",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "xMxdoJkgB8"
+        },
+        "levelPoints": 66,
+        "minutesFree": 136,
+        "objectId": "C8fcZCRYwG",
+        "score": 624,
+        "sessionToken": "f15ekOGrqtCW6lLKqsv1XOfD0",
+        "twitterName": "jjramire83",
+        "twitterUserId": "818618994",
+        "unlockCount": 17,
+        "updatedAt": "2015-09-14T01:01:43.850Z",
+        "username": "Jim Ramirez"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.66",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "18",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-07-02T11:46:12.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-07-02T12:08:50.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-07-06T11:54:57.898Z"
+            }
+        },
+        "achievements": "00600001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABADjZBlZCzSFqSwwa6ZA2rHIr3MdK2YLqlVenU3M6Yb3peP4ErOyTLHpVZCNRTWc982ZBhZBfWa8LcKgYwCvvS34uwi64n54NL8hmHG91Oh7ee9GLeloHNL2Tv12R0t7HGBCmnUVhYyEofnZCBrZC9KS42sbab82plYJ7VbcLXLSztXgUg88TEscEmmtmFo3Lc5Tf6m4BlJs6",
+                "expiration_date": "2015-09-22T14:15:39.662Z",
+                "id": "1490119484574519"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$2bAfTnaKPwK.0z7EsabC6einAD8qDCP6fjJh6zQMdkBYarWDixOUy",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "tqpIogiD9d"
+        },
+        "createdAt": "2015-02-20T08:52:58.429Z",
+        "firstName": "Jim",
+        "gender": "male",
+        "lastName": "User",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "6Ra5v3CXdi"
+        },
+        "levelPoints": 0,
+        "minutesFree": 15,
+        "objectId": "DDRu8sSnr2",
+        "score": 135,
+        "sessionToken": "Z4nLDcRoRWzotBEtf3n3xZYBX",
+        "unlockCount": 3,
+        "updatedAt": "2015-09-14T01:02:08.666Z",
+        "username": "Jim User"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.71",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "18",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-07-25T13:47:05.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-07-29T11:09:00.750Z"
+            }
+        },
+        "achievements": "00400001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAFAmaEWsdfM1PBSeiPC178JhOKh7qNQ5jaUzccicuXZCt4spDTKaOU9hsfRz4Y63T4eRjrgdg8C6wD0eeaZCXElwQe4k8vREwZBEJb1gVVRCmfx3ZC6jcbQVJukP25YnUPyf7kwWZBLqRMrD8vX1i0wXsfODXLR6ygFuMgGCZC8SrIzlVwBZBIZD",
+                "expiration_date": "2015-11-16T12:10:14.661Z",
+                "id": "10101307060602144"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting me while I drive. http://text.ninja  #textninjaprotexts",
+        "bcryptPassword": "$2a$10$nsQpEoPRuNoT7GplgXvyjeiWTIROaeTbRDqLgS4tC3j4jmJ8gDWDC",
+        "belt": "Orange",
+        "beltNumber": 0,
+        "blocks": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "dLpvQySgSZ"
+        },
+        "createdAt": "2015-07-25T18:47:05.929Z",
+        "firstName": "Jess",
+        "gender": "female",
+        "lastName": "Goodwin",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "hS7CeA3Mpy"
+        },
+        "levelPoints": 3,
+        "minutesFree": 2,
+        "objectId": "EdqICbr4Us",
+        "score": 3,
+        "sessionToken": "IYOFYVulDuxf7yCFosUUjagoc",
+        "twitterName": "jessjokin",
+        "twitterUserId": "597795410",
+        "unlockCount": 2,
+        "updatedAt": "2015-09-24T14:36:07.965Z",
+        "username": "Jess Goodwin"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 1,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 1,
+        "AdvSetShortDisengageTimeoutEnable": 1,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 1,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.76",
+        "BTaddress": "88:1B:99:00:2A:DB",
+        "BTname": "Carista",
+        "OSversion": "23",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-06-29T18:33:24.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-07-29T16:57:25.000Z"
+            },
+            "00000008": {
+                "__type": "Date",
+                "iso": "2015-07-29T20:36:15.000Z"
+            },
+            "00000080": {
+                "__type": "Date",
+                "iso": "2015-07-15T07:33:55.000Z"
+            },
+            "00000100": {
+                "__type": "Date",
+                "iso": "2015-08-05T21:41:33.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-08-04T18:30:23.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-07-11T15:20:54.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-07-11T19:34:04.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-07-13T09:17:32.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-07-15T18:54:41.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-07-11T15:20:54.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-06-29T18:34:37.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-07-31T12:25:06.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-08-03T10:42:36.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-08-14T17:51:38.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-08-17T21:01:49.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-07-16T13:33:10.475Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-08-04T18:30:23.290Z"
+            },
+            "300000000": {
+                "__type": "Date",
+                "iso": "2015-09-16T18:25:05.387Z"
+            }
+        },
+        "achievements": "307FE118B",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAEOsNGgZB9gZCQpmiBaGdJVZCqSrGQBIkJozb9mQwXQxh9a7xUcZB4asZAg92jlwmX1A2sZBFy2n35EnIk6FwIem65g4lxyXjZAeciuhgrRqZBApRPmZCdzGnO2ApXt464isLTLUmYO8CeS5vGyfAPo40rTG1B1BX29iBscEg4GS4hhj2C6VArqwZD",
+                "expiration_date": "2015-11-11T22:02:48.783Z",
+                "id": "10205042955060660"
+            }
+        },
+        "autoReplies": 19,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$shkBf67uwxeT.9ZlewK4c.v3ZTRXTdu2XvoJzI4BjFR6r5ZVk5L5u",
+        "belt": "Black",
+        "beltNumber": 6,
+        "blocks": 28,
+        "campaignActive": null,
+        "campaignUserActive": null,
+        "createdAt": "2014-12-28T00:35:20.950Z",
+        "firstName": "Pedro",
+        "gender": "male",
+        "lastName": "Ramirez",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "1M0vtsXArX"
+        },
+        "levelPoints": 32,
+        "minutesFree": 1783,
+        "objectId": "FahRyWrrel",
+        "score": 3854,
+        "sessionToken": "MkmgFXRSWLWPrtgLZyE9C3DtI",
+        "twitterName": "PedroPete",
+        "twitterUserId": "6325022",
+        "unlockCount": 45,
+        "updatedAt": "2015-11-04T04:17:40.911Z",
+        "username": "Pedro Ramirez"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.67",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "21",
+        "RptLastSend": "",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABANJyzBblPm8IjzvZBAherhwwfgfEEqcWQm7PH2Wlt9rtZB63PaQ3y6DHngLylhU5sSBSD8xJeM3Ag3NyGyDf4bL9P1Qt2OksvURtoUZAtES37FBn1aXqO83XCAb1J64qd7vMB3uYm2fkDM04hAbUTUmBJKVS7QninQii2b93n5rG6ZB2dOT6R9fwTEuBTAZDZD",
+                "expiration_date": "2015-10-11T17:51:19.930Z",
+                "id": "10204631957743428"
+            }
+        },
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$jze1XWR0Z6m99UFc3WuStuD15..b8q8MpTFlrPpaVAYpMFZ/VPOSC",
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "XF3hwl68pb"
+        },
+        "createdAt": "2015-08-12T21:51:21.272Z",
+        "firstName": "Trixie",
+        "gender": "female",
+        "lastName": "Ashford",
+        "objectId": "Fd3lKdF8dx",
+        "sessionToken": "sf80V3gSJq0ej4n786FC7GZX9",
+        "updatedAt": "2015-09-14T01:01:37.754Z",
+        "username": "Trixie Ashford"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.74",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-08-07T08:23:01.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-08-06T08:59:18.000Z"
+            },
+            "00000010": {
+                "__type": "Date",
+                "iso": "2015-08-21T18:02:26.000Z"
+            },
+            "00000400": {
+                "__type": "Date",
+                "iso": "2015-08-24T23:22:42.000Z"
+            },
+            "00000800": {
+                "__type": "Date",
+                "iso": "2015-08-24T23:23:59.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-09-07T10:49:18.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-08-06T23:09:36.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-08-07T08:51:18.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-08-10T18:23:47.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-08-19T19:27:38.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-08-06T08:48:35.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-08-07T08:26:23.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-08-21T07:45:17.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-08-24T17:04:53.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-08-25T08:00:02.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-08-26T17:01:11.000Z"
+            },
+            "08000000": {
+                "__type": "Date",
+                "iso": "2015-08-28T00:05:58.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-08-26T17:39:38.513Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-09-07T10:49:18.512Z"
+            }
+        },
+        "achievements": "20FFE1C13",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAMixc4jEJfhFWhUSz8myQ1190tfTQlNJ2hXLir5rBbarLJvy7aVOF4xyZC6knIpXQQ83aNqvZAoRZCo8TyHdjb37gOrP15sGPP3KfKalhmeBEP7zAkNENJZC1VbF7ZAhwfGAFoZC5bZBCZCaHnhSyGrzCfZBZCY8TAW35TQPLb5ZAPp",
+                "expiration_date": "2015-10-14T17:08:27.002Z",
+                "id": "10155821284395456"
+            }
+        },
+        "autoReplies": 11,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message will be replied to shortly. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$6CPuNoXe2OKBfsrMtt8dDuIQuiJsuPs6aHtZnnuudr0qj3LeziwJm",
+        "belt": "Red",
+        "beltNumber": 5,
+        "blocks": 16,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "Gsc4OsImqv"
+        },
+        "createdAt": "2015-08-07T14:26:23.159Z",
+        "firstName": "Joel",
+        "gender": "male",
+        "lastName": "Gestner",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "MQLcs7njjs"
+        },
+        "levelPoints": 2089,
+        "minutesFree": 2775,
+        "objectId": "IIqJwMEhc1",
+        "score": 6739,
+        "sessionToken": "LkLAkdkAy9H0I6GRprT0YiRzZ",
+        "twitterName": "BiohazardX2",
+        "twitterUserId": "2853394571",
+        "unlockCount": 1,
+        "updatedAt": "2015-10-08T23:50:58.122Z",
+        "username": "Joel Gestner"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.58",
+        "BTaddress": "00:1E:B2:97:96:C3",
+        "BTname": "SONATA",
+        "OSversion": "19",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-06-07T11:39:17.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-06-20T14:45:07.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-06-10T07:21:56.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-06-10T17:20:53.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-06-11T07:18:13.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-06-22T07:42:46.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-06-10T07:21:56.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-06-09T18:22:45.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-06-11T06:36:45.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-06-12T11:57:59.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-06-25T16:58:29.226Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-06-25T16:58:49.857Z"
+            }
+        },
+        "achievements": "201FE1001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAPf7qy7N34SrZCRjPbxqKnJEGhqonIlZBTCKdKQENM2TmGLriuIGoY36oi6pOF1imBBWAL3dtZAIGfcaYaWK12tiptgLqHYS4QUGuQxQxC8fdXzCKqt5NlXVIBVAdgiy1XZCBVJstH3ovNAfpy1iStV3CinKYvnwxbN0YPMi",
+                "expiration_date": "2015-08-06T11:39:18.714Z",
+                "id": "865445130213256"
+            }
+        },
+        "autoReplies": 4,
+        "bcryptPassword": "$2a$10$vIg86GvY6YzouxwTD/4d0.0QPjCiQnY6djTI1hNVA.V3EENpePgnu",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 10,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "EKtPcGCMIr"
+        },
+        "createdAt": "2015-06-07T16:39:20.936Z",
+        "firstName": "Dave",
+        "gender": "female",
+        "lastName": "User",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "EKtPcGCMIr"
+        },
+        "levelPoints": 215,
+        "minutesFree": 251,
+        "objectId": "KsBwkQjsAM",
+        "score": 252,
+        "sessionToken": "rqikDQWGIumMAs8tBoOIB9IZK",
+        "unlockCount": 0,
+        "updatedAt": "2015-09-14T01:01:42.326Z",
+        "username": "Dave User"
+    },
+	{
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "bcryptPassword": "$2a$10$JWWDj.dw.sPV48R8DDwPmuQlzbpjNRC5utHLTLq/p34lvBZ3gVH5G",
+        "belt": "Orange",
+        "beltNumber": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "xQkcEHI3O0"
+        },
+        "createdAt": "2015-03-02T04:36:28.695Z",
+        "email": "prsafebox-tntester3@yahoo.com",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "vyLGoSir4L"
+        },
+        "objectId": "L5VDmS0Z2d",
+        "sessionToken": "JeB4EpGzk52lGaOmvXlubSpWO",
+        "updatedAt": "2015-09-14T01:01:45.706Z",
+        "username": "TestUser3"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.70",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABACznY4f8FPRg2mjhB0NyfFagAnXmTlhdZBj4ZBYBF9dshpgvEftlji5ZAYejxutNZBmimj1m06iETTmxr4npg7ZBkc3GhasaupoSxm7zCoRX4s9GsZAbmQ2Q26fFcgruHR9EZAsJ3qxNEmhIdn2KAYVJcQ1Ahc7WAZA2p7tgAMoRZCbu7deVkFY0ZD",
+                "expiration_date": "2015-11-12T19:37:10.000Z",
+                "id": "1395383144105170"
+            }
+        },
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$IhqTvlkz.62RqnN.UIjJFuddgaBbalGp4AORrdtJEF.9SRq5mNu2m",
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "ufJlpakGcs"
+        },
+        "createdAt": "2015-09-14T00:37:12.342Z",
+        "firstName": "Karen",
+        "gender": "female",
+        "lastName": "Chengsky",
+        "objectId": "OnO0YbLQ0m",
+        "sessionToken": "A1aJ8atVoesWz4oiFgbleAhWY",
+        "updatedAt": "2015-09-14T14:28:15.480Z",
+        "username": "Karen Chengsky"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.69",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAEbZAm5zHY63W0CbJiyH6ZBNsvN4FuImN2ljZBHDSDWCvwlHucuhEawjJZBHL8c3gj4hMy87NTjVA8ZBp6eFWi0GZBDJjRZCSIQj4jmpML22CvJ0nmCZB5PXNxNFzRTEOfCCZAO27gYiTbSfEoGolbUJC1O6KGomEZBiPEKDxs0slltxZB5rMO6Cc35w1p5ZBP1uHwZDZD",
+                "expiration_date": "2015-10-24T16:02:18.132Z",
+                "id": "1379921565670078"
+            }
+        },
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$rtlbl51LBM.sOvOHX4.XB.RiEXoo.E6yQ35NW8/ttD4Jj9hmWTzXa",
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "r6DiylVZK5"
+        },
+        "createdAt": "2015-08-25T21:02:21.075Z",
+        "firstName": "John",
+        "gender": "male",
+        "lastName": "Liangberg",
+        "objectId": "RU6tlhYTN6",
+        "sessionToken": "XV6p3g1QQaLZGe8uMzIC28KbY",
+        "twitterName": "jjramire83",
+        "twitterUserId": "818618994",
+        "updatedAt": "2015-09-14T01:01:32.509Z",
+        "username": "John Liangberg"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 1,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AppVersion": "0.48",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "19",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-01-13T10:57:27.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-02-08T23:05:03.000Z"
+            },
+            "00000008": {
+                "__type": "Date",
+                "iso": "2015-01-18T22:39:14.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-02-03T08:23:14.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-01-12T08:24:20.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-01-13T08:28:47.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-01-13T22:01:43.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-01-15T20:37:40.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-01-11T22:56:06.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-01-12T07:42:32.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-01-13T08:04:29.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-01-14T07:42:52.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-01-15T07:46:15.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-01-16T07:48:37.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-02-25T08:13:17.847Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-02-25T08:13:17.872Z"
+            }
+        },
+        "achievements": "207FE100B",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAIU5UZCXuS8O4lxiUzzEIYayvE2pfovsH9oOc6NmWzpBwAVDo83dzFPpCvl12tYgNa5kjWTXv4OL6SQJOQgJAsZAqbRHBVk9SkZCPsZAGFNBH8C347yw6bhSfhQkkSSg1LVmJzOfLio301zWjEltdsSlibY2710XTa0zhL2PR4t1hlHDx1lY8LhguM8wn2R4ZAaypWl1e",
+                "expiration_date": "2015-04-25T18:51:17.093Z",
+                "id": "10206088216311542"
+            }
+        },
+        "autoReplies": 11,
+        "bcryptPassword": "$2a$10$QsYIFYEchBL4MIqiaz9v6e6xl/439TZsI1hiMiwmPrFaZveuAH3TO",
+        "belt": "Purple",
+        "beltNumber": 3,
+        "blocks": 19,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "8tIuAMRqaw"
+        },
+        "createdAt": "2015-01-13T16:57:29.444Z",
+        "firstName": "Roman",
+        "gender": "male",
+        "lastName": "Maksymec",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "8tIuAMRqaw"
+        },
+        "levelPoints": 399,
+        "minutesFree": 1303,
+        "objectId": "Rg6rlmZZtj",
+        "score": 1249,
+        "sessionToken": "Q03z6XUXTdSCzgkC27Z5Kr2an",
+        "unlockCount": 0,
+        "updatedAt": "2015-09-14T01:02:09.298Z",
+        "username": "Roman Maksymec"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 1,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.71",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "19",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-08-23T10:39:26.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-08-23T17:03:22.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-08-25T16:26:54.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-08-25T18:04:12.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-08-26T13:09:53.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-08-27T10:14:32.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-08-23T17:03:22.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-08-24T15:20:36.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-08-25T16:07:57.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-08-26T12:19:39.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-09-30T11:18:22.369Z"
+            }
+        },
+        "achievements": "03FE0003",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAKMCir5w0o3UNQNl9RbFHPEyAgJXbZB4o1UOD5hLC2MEIba4BiZC2FuRgutoFdfeviwHo3qLnmToZC96NvD7Kp4t3QoiliTJZAYy1RumWyGbKSUg7zk8XibmQgO8MxZBLLLkOuCl0CMlheDlf25QfKCkwPkRttZClcBfvAHHw93vkt4JCXAIRYr360Aw7bNwZDZD",
+                "expiration_date": "2015-10-22T10:39:26.498Z",
+                "id": "1688001764753134"
+            }
+        },
+        "autoReplies": 1,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "I'm currently driving. This is an automated message. #X",
+        "bcryptPassword": "$2a$10$Fazrjm3qDMA4kxB6gthAXezJSuDmr0YrzbmxzfWpM7X2iUx1cg.di",
+        "belt": "Blue",
+        "beltNumber": 2,
+        "blocks": 1,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "3zjRlE8bzZ"
+        },
+        "createdAt": "2015-08-23T16:39:28.423Z",
+        "firstName": "James",
+        "gender": "male",
+        "lastName": "Arellano",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "2xXPzGhHQp"
+        },
+        "levelPoints": 321,
+        "minutesFree": 388,
+        "objectId": "SgL8lQlPmM",
+        "score": 1651696,
+        "sessionToken": "J3zbDFPkQkVwg7DI12UovU4wD",
+        "unlockCount": 6,
+        "updatedAt": "2015-09-30T17:55:06.533Z",
+        "username": "James Arellano"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 1,
+        "AdvSetShortReconnectTimerEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AdvSetTestCampaignsEnable": 1,
+        "AppVersion": "0.74",
+        "BTaddress": "00:1C:12:D4:F6:14",
+        "BTname": "General Motors",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-07-28T08:21:43.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-07-28T16:05:33.000Z"
+            },
+            "00000010": {
+                "__type": "Date",
+                "iso": "2015-08-17T10:41:50.000Z"
+            },
+            "00000400": {
+                "__type": "Date",
+                "iso": "2015-08-17T10:42:00.000Z"
+            },
+            "00000800": {
+                "__type": "Date",
+                "iso": "2015-08-17T10:41:31.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-09-10T21:45:59.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-07-28T16:05:32.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-07-28T17:46:06.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-07-29T06:49:58.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-08-12T07:50:36.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-07-28T16:05:33.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-07-29T05:45:33.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-09-10T13:32:46.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-09-15T05:57:30.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-09-16T11:30:33.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-10-13T11:44:30.000Z"
+            },
+            "08000000": {
+                "__type": "Date",
+                "iso": "2015-10-31T16:11:22.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-10-08T18:02:01.010Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-10-08T18:02:01.405Z"
+            },
+            "300000000": {
+                "__type": "Date",
+                "iso": "2015-10-08T18:02:01.528Z"
+            },
+            "400000000": {
+                "__type": "Date",
+                "iso": "2015-10-08T18:02:01.653Z"
+            },
+            "500000000": {
+                "__type": "Date",
+                "iso": "2015-10-13T17:03:12.033Z"
+            }
+        },
+        "achievements": "50FFE1C13",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAMqpA8zOYGGMvsOcAgEr0BSgIv8ZCKseGvwuSofqEfjYTK3faUVvW5PSmboFIxrFURGwvCyZCeeCa6995UAc5n2TKyFsVpZCtdU55CqhtJou30KsIPMH8P4oJJUGNMmXnyC5NjOdf3ARMm3cgyhumXKl9WI9LZAfQbBcd1BOapIWMNS6Wt66ioMtjk2XgWBTYWFObzyn",
+                "expiration_date": "2015-09-26T08:21:44.107Z",
+                "id": "10206119499139150"
+            }
+        },
+        "autoReplies": 31,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; I will text you when I'm not driving.",
+        "bcryptPassword": "$2a$10$c8hx8nNS0E.4sChVW/AEUOB76eBXln76y7qi8Hsy2d0GFdMEAuXSe",
+        "belt": "Red",
+        "beltNumber": 5,
+        "blocks": 46,
+        "campaignActive": null,
+        "campaignUserActive": null,
+        "createdAt": "2015-07-28T13:21:44.948Z",
+        "firstName": "Kevin",
+        "gender": "male",
+        "lastName": "Fadden",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "IDx2kzo2me"
+        },
+        "levelPoints": 1948,
+        "minutesFree": 3094,
+        "objectId": "VFJ390Any8",
+        "score": 3106,
+        "sessionToken": "hRBF7zSazRzDaakaKOUYErPKX",
+        "twitterName": "kjfadden",
+        "twitterUserId": "1095681764",
+        "unlockCount": 44,
+        "updatedAt": "2015-11-05T21:01:29.481Z",
+        "username": "Kevin Fadden"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.71",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-08-11T09:22:10.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-08-07T18:02:37.000Z"
+            },
+            "00000010": {
+                "__type": "Date",
+                "iso": "2015-09-03T09:00:44.000Z"
+            },
+            "00000800": {
+                "__type": "Date",
+                "iso": "2015-09-04T12:33:03.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-08-07T18:02:37.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-08-11T09:01:09.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-08-28T08:44:53.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-09-01T17:59:59.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-08-07T18:02:37.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-08-11T08:18:58.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-08-31T17:06:33.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-09-01T09:00:59.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-09-02T07:59:14.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-09-03T08:17:40.000Z"
+            },
+            "08000000": {
+                "__type": "Date",
+                "iso": "2015-09-17T08:50:45.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-09-03T17:40:22.371Z"
+            }
+        },
+        "achievements": "10FFE0813",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAJlillm3wd61HnhlHFgoJTkdZBBJZBR0G9MikG7NzWaZCzVedRtShAIBxV6coNmdIRiE0mUZApvaksxgbuAzK9JpuGL0IzX1sqngLW0g13NJw9ZCViGejvLXJe9bxwAXswBvCCuOhiuZBFM6LPptRUjbphHTBWwEvZAnaxg2E3dd79jePfPX1IZD",
+                "expiration_date": "2015-10-25T16:12:09.612Z",
+                "id": "10154146016533206"
+            }
+        },
+        "autoReplies": 4,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "You've been TextNinja'd! Charles will respond when he's finished driving!",
+        "bcryptPassword": "$2a$10$Ay0MM9aR509oltInM.rSoOvqH/aPMPYxxyAQ7ENH6H3Ed.fHCDLIe",
+        "belt": "Brown",
+        "beltNumber": 4,
+        "blocks": 7,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "dnKd76BzRN"
+        },
+        "createdAt": "2015-08-11T15:22:11.300Z",
+        "firstName": "Charles",
+        "gender": "male",
+        "lastName": "Warren",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "EZx6CQpJKM"
+        },
+        "levelPoints": 955,
+        "minutesFree": 1403,
+        "objectId": "WvxlP9acfT",
+        "score": 11416,
+        "sessionToken": "v8aeMkuxAm8t0efs9fs4CYWHU",
+        "twitterName": "last2throw_l2t",
+        "twitterUserId": "386066589",
+        "unlockCount": 10,
+        "updatedAt": "2015-10-05T15:41:04.621Z",
+        "username": "Charles Warren"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 1,
+        "AppVersion": "0.71",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "19",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-09-26T17:44:18.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-10-02T18:11:09.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-09-27T13:51:16.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-09-29T18:03:17.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-10-02T18:11:09.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-10-09T09:31:14.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-09-27T13:51:17.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-09-27T13:17:10.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-09-28T06:21:30.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-09-29T16:38:58.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-10-02T17:12:11.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-10-06T17:58:45.000Z"
+            },
+            "08000000": {
+                "__type": "Date",
+                "iso": "2015-10-12T15:23:54.818Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-10-18T12:32:36.746Z"
+            }
+        },
+        "achievements": "10FFE0003",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABABYQIbyva8GqExdTZB0UwBVUu0wcoJ5gZAesFPD93XcYH98gEnCnKfNor8cKukNZB23N6uBzQ5ZAaHZAiRgi0JfP68KtX91ydGhSLcMywMhKy8sBlaWkfRyKEWyLi1kR7fjPDIOsln7Cl0mjYR0rWnnZCauNqqscdVqRSc4SYzwKLAJX1w1AkZD",
+                "expiration_date": "2015-11-25T17:44:18.888Z",
+                "id": "10105538647912118"
+            }
+        },
+        "autoReplies": 3,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "I am currently driving.  Thanks for distracting me! Not.  Text ninja's got my back!; Message saved. http://text.ninja",
+        "bcryptPassword": "$2a$10$gq7udxTjURwYv29vrcslrOtyu0SaQshLLKnAjAI2lPum9htggaqUe",
+        "belt": "Blue",
+        "beltNumber": 2,
+        "blocks": 6,
+        "createdAt": "2015-09-26T22:44:19.481Z",
+        "firstName": "Jeremy",
+        "gender": "male",
+        "lastName": "Kronberg",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "c1hbsgBNq1"
+        },
+        "levelPoints": 1114,
+        "minutesFree": 1224,
+        "objectId": "XrJ5qVdJ3X",
+        "score": 1237,
+        "sessionToken": "nFqCdvlA9zrNs0lfAAeMXY9QF",
+        "unlockCount": 0,
+        "updatedAt": "2015-10-29T03:09:36.389Z",
+        "username": "Jeremy Kronberg"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.67",
+        "BTaddress": "00:6A:8E:16:C5:CF",
+        "BTname": "BT Elite",
+        "OSversion": "21",
+        "RptLastSend": "",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAMyreJd6jULGgtxov5W0z3FpS4pEPdgAuYAXQNT871G9vBXCoksOx5LSK6ka6WErmuJ9ZBdOmVKxZCU91Jr47jhrQXh2ZAZA7SDdlFMeDcxf8ovKq4nGKamI5ZBmuqJOqOmZBmPtpPyono4jek6sS4G6qVq2foiLXhMoALboXZBAJJlCTh9wnES7DdlwZCeECgZDZD",
+                "expiration_date": "2015-10-12T14:32:15.002Z",
+                "id": "10204923254350108"
+            }
+        },
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$G3/e6IXmBVMNxJw58OrO0.ozP/vUFdgclBZqPmnUhGhZ6VXnVlpfG",
+        "createdAt": "2015-08-13T21:32:17.523Z",
+        "firstName": "Kelly",
+        "gender": "male",
+        "lastName": "Hurst",
+        "objectId": "Z8vlXO1JvI",
+        "sessionToken": "rQJBUZxh4tiSpwOkidGgZZC70",
+        "updatedAt": "2015-09-14T01:01:36.675Z",
+        "username": "Kelly Hurst"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.74",
+        "BTaddress": "0C:D9:C1:2A:A1:08",
+        "BTname": "HandsFreeLink",
+        "OSversion": "21",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-10-20T08:40:17.000Z"
+            },
+            "00000010": {
+                "__type": "Date",
+                "iso": "2015-10-20T08:44:32.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-10-22T08:21:22.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-10-25T11:47:23.082Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-10-20T08:34:45.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-10-22T08:07:13.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-10-24T18:08:43.967Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-10-25T11:26:38.822Z"
+            }
+        },
+        "achievements": "01E60011",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAPBsbV4T4dxA0vLeZC0qtaze8rVLte8KMbtYPfavPAy9oltBXVNQZCFykCECEgfAzCZCzAZCudIWzOL4mSGZCQwEbITOd5UrCeYgqPt1jDtBJfCwO83oOWZBXvw7GHK4EXnfCAZCPBEsAzuq512QrWVinobnGpFMGEGk39Avfh1MaZAlHoOQKhIZD",
+                "expiration_date": "2015-12-19T08:40:17.625Z",
+                "id": "10153778472612932"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$2DE70r8bKq7cilQTGKCWwOEknrk7gZLxXjSZ7SKigr.H30s8RwJ4S",
+        "belt": "Blue",
+        "beltNumber": 2,
+        "blocks": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "WnGWOONdYY"
+        },
+        "createdAt": "2015-10-20T13:40:35.619Z",
+        "firstName": "Matthew",
+        "gender": "male",
+        "lastName": "Cowan",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "b3BRYmnI2A"
+        },
+        "levelPoints": 21,
+        "minutesFree": 72,
+        "objectId": "ZiyZKS0o5S",
+        "score": 78,
+        "sessionToken": "f1nFpus6UBnh1NSEDAagIlvhq",
+        "twitterName": "mattjcowan",
+        "twitterUserId": "20706335",
+        "unlockCount": 0,
+        "updatedAt": "2015-10-25T16:47:25.467Z",
+        "username": "Matthew Cowan"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 1,
+        "AppVersion": "0.74",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-09-27T14:37:49.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-09-27T20:36:02.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-09-28T16:27:20.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-09-28T19:15:05.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-09-30T15:26:03.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-09-27T18:31:30.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-09-28T15:43:57.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-09-29T06:44:55.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-09-30T06:36:01.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-10-01T06:54:39.000Z"
+            },
+            "04000000": {
+                "__type": "Date",
+                "iso": "2015-10-02T06:37:33.000Z"
+            },
+            "08000000": {
+                "__type": "Date",
+                "iso": "2015-10-04T10:33:29.000Z"
+            }
+        },
+        "achievements": "0FFE0001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAHwf8Howlo4KYZBoZABZAPZCy50OKh6ZBdnIVZBb5ZAt6Ih7pLusmWqOsi0ISJYGBnp7Fi915xF1v9QwnEm2JJ0Pc7sBFacmgQapJutYoajQMFhZCNzz3jvzZAUEIQnZADOOAaYnxN1x7uucQcKoJZAWwLTfhOp0rGSVRk6jKa2lMZAt",
+                "expiration_date": "2015-11-26T14:37:48.996Z",
+                "id": "10153244419253261"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "Driving atm, I'll reply later.",
+        "bcryptPassword": "$2a$10$t0WOaIDmZawzWu2sfQFMfuzB9JzUy4iFi0PAzCbV7097/NfUgGxqK",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 0,
+        "createdAt": "2015-09-27T19:37:51.747Z",
+        "firstName": "Anthony",
+        "gender": "male",
+        "lastName": "Sontag",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "CsGnhh9K4B"
+        },
+        "levelPoints": 1380,
+        "minutesFree": 1402,
+        "objectId": "aPD3WKQDF2",
+        "score": 1402,
+        "sessionToken": "cHanCAokKc0Qe2juLv60tk38n",
+        "unlockCount": 0,
+        "updatedAt": "2015-10-16T12:23:45.060Z",
+        "username": "Anthony Sontag"
+    },
+	{
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "bcryptPassword": "$2a$10$vANJ13zIONDQZzV61EvfK.3sjo6RobKQosD4UToivGWKaOsFGa9P2",
+        "belt": "Orange",
+        "beltNumber": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "uStMnzP5hc"
+        },
+        "createdAt": "2015-03-02T04:36:35.561Z",
+        "email": "prsafebox-tntester2@yahoo.com",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "M8UGj8HIg6"
+        },
+        "objectId": "acWeMbnJHl",
+        "sessionToken": "x6F60Q1VSmbtN2sNkv29kWJqh",
+        "updatedAt": "2015-09-14T01:01:45.015Z",
+        "username": "TestUser2"
+    },
+	{
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAJvmjlSBIbMzd1Ds5r0oSeD35IRo7E9yRlbMFb5jmpyurifk7AfvyJ48eZBU6vVW16x0U3JEgWZAhgwuwQK1Kz82oSg6wVQ5IT2KmVjej8yjstmT2TbsJJkNfNc0ZBz2XpjqITrK1gU2RlMEqFEsV9kgI7ewoEA33NiyzuMre57ZCZBbBWve13UUk35BqRS0XpwCze72r",
+                "expiration_date": "2015-04-24T13:30:13.035Z",
+                "id": "1001243121354"
+            }
+        },
+        "bcryptPassword": "$2a$10$VHUlZ0lgD8/zjYdDjnzqxud/IYVZliks/PG2gU6ibYyIia/hv3TE2",
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "kyvAaIhvpQ"
+        },
+        "createdAt": "2015-02-23T21:30:14.278Z",
+        "firstName": "Puddi",
+        "gender": "male",
+        "lastName": "Chan",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "kyvAaIhvpQ"
+        },
+        "objectId": "b7VNh02Aav",
+        "sessionToken": "ncobuARf4Dg6dpHL5ig1CGPji",
+        "updatedAt": "2015-09-14T01:01:47.495Z",
+        "username": "Puddi Chan"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.71",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-09-14T09:46:37.758Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-09-14T11:34:20.084Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-09-14T11:44:20.282Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-09-14T20:03:22.504Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-09-14T11:40:06.581Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-09-14T11:44:20.602Z"
+            }
+        },
+        "achievements": "200201003",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAI27u6GNPztWgClEOx6DFrZAcI5ww717c5rUIw8teNuKloWyvUNXZCrw1DHz6ykLmMZANQ0AUE2htAu1XVi3kRBZBRj86ZC0CXdcauX4ZAYjapVEZCIe8nDbD6uir7f7Pb5ZCgqsCZCJ49yTWfb5nhn4noLlM2V2GQ6YHpYpKci1sYrBBXTkfAoATbFGMfuoIDwZDZD",
+                "expiration_date": "2015-11-14T10:19:37.011Z",
+                "id": "1401031386884905"
+            }
+        },
+        "autoReplies": 1,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$4Vnub3DIwLYozfqS/gTfxOhGiXPauAQVQlA44h.XMG5hhjVVV8Vdm",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 15,
+        "createdAt": "2015-09-14T14:46:39.791Z",
+        "firstName": "Dorothy",
+        "gender": "female",
+        "lastName": "Okelolasky",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "edQXlltnvP"
+        },
+        "levelPoints": 17,
+        "minutesFree": 23,
+        "objectId": "d7YtIGIFGc",
+        "score": 38,
+        "sessionToken": "cY90yvVwXU7r3wwFylsyxoWfk",
+        "unlockCount": 0,
+        "updatedAt": "2015-09-15T15:19:40.569Z",
+        "username": "Dorothy Okelolasky"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.72",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-09-15T14:17:22.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-10-01T16:34:52.028Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-09-26T09:22:56.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-09-27T15:24:12.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-10-01T16:19:51.252Z"
+            }
+        },
+        "achievements": "01E00001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAJBAiTy76ZCfI7zWXLlfOR9R49a3N9vXJ3eqiBjc4yxOJBWI2QzPobw67nOUlZB2QnYxLeu3IOztbDIZCCrVAFdVo6ZC0E8KH9MhxmGWuZBJGa7HnlZCxDMAeSFp026dKryXa93LNVTzWb5UVcgzu763Wzzahbi9y73xD3F8rfwZBjcksLa80wZD",
+                "expiration_date": "2015-12-02T22:41:37.748Z",
+                "id": "111308932548410"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$s16zYQinztrLh25vSUJByez8feX9IxYNbolX/HodvO1Qw1Wyo2E22",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 0,
+        "campaignActive": null,
+        "campaignUserActive": null,
+        "createdAt": "2015-09-15T19:17:26.413Z",
+        "firstName": "Jeremy",
+        "gender": "male",
+        "lastName": "Yangberg",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "565cuTKZpl"
+        },
+        "levelPoints": 0,
+        "minutesFree": 14,
+        "objectId": "do8ZBmBrlW",
+        "score": 26,
+        "sessionToken": "l0bH03lEwZI7C1wMQlhMI4H2K",
+        "unlockCount": 0,
+        "updatedAt": "2015-10-04T03:46:51.378Z",
+        "username": "Jeremy Yangberg"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 1,
+        "AppVersion": "0.67",
+        "BTaddress": "9C:28:BF:25:91:2C",
+        "BTname": "Uconnect",
+        "OSversion": "21",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-08-13T16:59:10.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2015-08-17T10:58:27.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-08-14T11:07:24.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-08-15T15:24:47.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-08-16T10:59:22.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-08-22T23:22:00.262Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-08-14T09:51:47.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-08-14T09:28:50.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-08-16T10:12:51.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-08-15T15:05:25.704Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-08-17T10:58:27.349Z"
+            },
+            "300000000": {
+                "__type": "Date",
+                "iso": "2015-08-20T11:13:50.467Z"
+            }
+        },
+        "achievements": "300FE1001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABABRxQyHviYukR8qiwJfdl11aAcQZAWOEuHeVxdeefu8YZBo17hIVn1lf0Si6V0pWewQNwmjZC5CFI2qLJ3kufxIksDJAyYTFTqhZCP8YMnBAZAie7jMYennhPQP1tB5K4WBTvm7lguAYtvLjB8CFjvbKIi0DJ4XQxVZBZBcZCO6WhlxQI5YBHDEZD",
+                "expiration_date": "2015-10-12T16:59:10.574Z",
+                "id": "10100301920890619"
+            }
+        },
+        "autoReplies": 17,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is working as my minion: mode Wait 2 Text. Text back when I'm done conquering the world!  http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$xcPTEqIr/ISKnPEdQL8WGuyDiotduIdhD9qDvqRvYfFRiBzAkziyO",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 25,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "kHUtDiyzAh"
+        },
+        "createdAt": "2015-08-13T20:59:11.739Z",
+        "firstName": "Heather",
+        "gender": "female",
+        "lastName": "Fugett",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "KTcbMoLDlK"
+        },
+        "levelPoints": 253,
+        "minutesFree": 274,
+        "objectId": "dzhtzii33n",
+        "score": 277,
+        "sessionToken": "cZbLi3rlMWHit2c9rcJQrjOaX",
+        "unlockCount": 14,
+        "updatedAt": "2015-09-14T01:01:36.851Z",
+        "username": "Heather Fugett"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.74",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-10-03T22:49:44.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-10-02T19:15:00.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-10-02T19:14:59.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-10-05T11:23:58.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2015-10-05T15:06:09.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2015-10-19T17:48:12.651Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-09-18T20:15:12.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-09-18T19:39:26.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-10-02T19:07:17.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2015-10-03T09:37:48.000Z"
+            },
+            "02000000": {
+                "__type": "Date",
+                "iso": "2015-10-04T10:29:38.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-10-05T14:30:29.260Z"
+            }
+        },
+        "achievements": "103FE0003",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAJ14mTalq58kKF9eiqhEPidCJBLDRlZBmgVsAoRsRoK1wtRfW2s8F79EvnOUEXKUKnyILaolcdlP523Ys4OA9VLPZCUXOjrUAZBlJCWIZCfsM8ZAaTTFFt2MptWP2zRhuejdjJ7lTOfhZA9TFuRKZBGjgeoQ4EF7d80C2cndPe3",
+                "expiration_date": "2015-12-17T10:26:24.080Z",
+                "id": "1078758435469777"
+            }
+        },
+        "autoReplies": 5,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  \n",
+        "bcryptPassword": "$2a$10$hpDyDbGea5zHFpwLzuNvjuVoTtu3FVIKq32EFoOJjPs7esSRmhWw6",
+        "belt": "Blue",
+        "beltNumber": 2,
+        "blocks": 7,
+        "createdAt": "2015-10-04T03:49:46.910Z",
+        "firstName": "Monte",
+        "gender": "male",
+        "lastName": "Kirk",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "Hg9Sygjteq"
+        },
+        "levelPoints": 103,
+        "minutesFree": 315,
+        "objectId": "hoz4rSZZMo",
+        "score": 322,
+        "sessionToken": "SMa8W3CMTgPxUxyn2NLavBXMR",
+        "twitterName": "montekirk",
+        "twitterUserId": "703926092",
+        "unlockCount": 4,
+        "updatedAt": "2015-10-25T18:17:23.411Z",
+        "username": "Monte Kirk"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.67",
+        "BTaddress": "AA:BB:CC:11:22:33",
+        "BTname": "OBDII",
+        "OSversion": "18",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-07-25T17:38:48.000Z"
+            },
+            "00000002": {
+                "__type": "Date",
+                "iso": "2015-07-31T11:56:30.000Z"
+            },
+            "00000004": {
+                "__type": "Date",
+                "iso": "2014-12-03T14:04:55.000Z"
+            },
+            "00000008": {
+                "__type": "Date",
+                "iso": "2015-01-04T14:28:45.000Z"
+            },
+            "00000010": {
+                "__type": "Date",
+                "iso": "2015-02-20T15:54:36.000Z"
+            },
+            "00000400": {
+                "__type": "Date",
+                "iso": "2015-02-20T15:57:54.000Z"
+            },
+            "00001000": {
+                "__type": "Date",
+                "iso": "2014-12-04T18:21:15.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-07-25T17:43:53.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-07-25T17:43:53.000Z"
+            },
+            "00080000": {
+                "__type": "Date",
+                "iso": "2014-12-04T18:21:14.000Z"
+            },
+            "00100000": {
+                "__type": "Date",
+                "iso": "2014-12-17T17:51:00.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-07-31T11:56:31.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-07-29T16:32:33.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2014-12-05T10:57:09.000Z"
+            },
+            "01000000": {
+                "__type": "Date",
+                "iso": "2014-12-06T14:07:07.000Z"
+            },
+            "100000000": {
+                "__type": "Date",
+                "iso": "2015-04-22T16:44:54.545Z"
+            },
+            "200000000": {
+                "__type": "Date",
+                "iso": "2015-04-22T16:44:54.666Z"
+            }
+        },
+        "achievements": "201FE141F",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAJrNdX5z9ZB7priJgKjZB5ch5LRfx2g8UYCvZB252TTJQ6lsrnEktCC64DgkgdPp414YcbktiPNoNbKqY9DCxIBFfhAejVLYgSavKoUgWRb7VmzbdaX55ZAajL8hlFcuqcXuoPR772q9dWEbR5yggUboM7enT18tS5FjZAQV5WuNl3RJVuA4ZD",
+                "expiration_date": "2015-11-14T11:07:19.136Z",
+                "id": "10104187931069380"
+            }
+        },
+        "autoReplies": 8,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$eFRK.ZX2iWYezlt/pKdktOWFjpvzmTBpeL3q34Udrr97rJFj/UE.u",
+        "belt": "Black",
+        "beltNumber": 6,
+        "blocks": 15,
+        "campaignActive": null,
+        "campaignUserActive": null,
+        "createdAt": "2015-01-11T21:42:04.685Z",
+        "firstName": "Will",
+        "gender": "male",
+        "lastName": "Huiman",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "9fEvUuBGAy"
+        },
+        "levelPoints": 10,
+        "minutesFree": 572,
+        "objectId": "m97YJqizJa",
+        "score": 658,
+        "sessionToken": "f1E8rfcvvK1Hr9utI0ajU7JpI",
+        "twitterName": "jjramire83",
+        "twitterUserId": "818618994",
+        "unlockCount": 5,
+        "updatedAt": "2015-09-15T17:57:28.637Z",
+        "username": "Will Huiman"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.59",
+        "BTaddress": "00:0D:18:00:00:01",
+        "BTname": "OBDII",
+        "OSversion": "18",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-06-08T12:12:21.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-06-08T13:12:56.000Z"
+            },
+            "00040000": {
+                "__type": "Date",
+                "iso": "2015-06-08T13:12:56.000Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-06-08T12:08:14.000Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-06-10T16:52:09.000Z"
+            },
+            "00800000": {
+                "__type": "Date",
+                "iso": "2015-06-19T15:28:32.563Z"
+            }
+        },
+        "achievements": "00E60001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAIpoxat0lyg0ojHCa0TN2tEJSZBG9rxeDozP0ZAcdE4t8aVCAXvk7DVfSlc2vcPeCdG8sZCrwoOMtwgHYjMEH3ZA9WQhXRf0eOj0FcPuQZBu4nAJceNWPJXZC7JMoZCdOSXP0aWnEt5m8UMokAgc0LgoCu8TwdZBhy7AVjAABuEdINYIJuWlJU2NusYgvKXqLaZAiIyNM01dg",
+                "expiration_date": "2015-08-07T12:12:22.283Z",
+                "id": "1382078895453209"
+            }
+        },
+        "autoReplies": 0,
+        "bcryptPassword": "$2a$10$4N/lzUE5KTSFxO2gKjXARunLg.4a/KhcvOAszb97cPnTUr9WMSGAC",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "8Omb8arL6k"
+        },
+        "createdAt": "2015-06-08T17:12:23.829Z",
+        "firstName": "John",
+        "gender": "male",
+        "lastName": "Zuckersky",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "8Omb8arL6k"
+        },
+        "levelPoints": 47,
+        "minutesFree": 60,
+        "objectId": "mditig5KN1",
+        "score": 63,
+        "sessionToken": "W8eeVh9VfpdouGISUnu7d5BRW",
+        "unlockCount": 2,
+        "updatedAt": "2015-09-14T01:01:41.627Z",
+        "username": "John Zuckersky"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 1,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.74",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "23",
+        "RptLastSend": "",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAOVumRoM2Gr2mIIVARmcpnqowSoCyXbxE1lykZBAFJvM5pSNa9Dwf83fBfnXg8u8jXmou4G6wUBPVHVmZAiuvYgiHSG8KlmnZCZANARbgZAcIqvnKhS1EL1ReiDYO3kJgZBGMwT8jmCgzvwVpCHHu9xLZA5Gcq8AaknK6RL609mHwR9ZAUHIYRMZD",
+                "expiration_date": "2015-12-07T16:47:56.259Z",
+                "id": "134731206863979"
+            }
+        },
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$xLbgJxdOnMS3.l3/NRz4n.xEDzZWPhB1JlA04B29lM/RHse/oCWdW",
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "RJapOhUEsE"
+        },
+        "createdAt": "2015-10-04T03:47:46.928Z",
+        "firstName": "Patricia",
+        "gender": "female",
+        "lastName": "Lisen",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "fQ7FB9YTAN"
+        },
+        "objectId": "n4kvTvujaU",
+        "sessionToken": "LcEuZuKdqIN8jAUWHu0s0w3kt",
+        "updatedAt": "2015-10-29T18:16:37.987Z",
+        "username": "Patricia Lisen"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 0,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.67",
+        "BTaddress": "",
+        "BTname": "",
+        "OSversion": "19",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-08-13T18:09:54.856Z"
+            }
+        },
+        "achievements": "00000001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAOCIUgZBQKzgx7ZAjoNIFFH3ACcL0le17raMQfwOZBMgZCV3VkfpG7QniLK5O1Q2L63wyyc5VvLLBsXIETBrF4kN6vJUUWqxCAdq6GG4DJNY5qEZB0uldFtN7BstNoQcX2zOcS1akoIuX7kBTtO1ihfWZAyIArPz0b7Y0x2bkRw9GbXvg9yuPOG6rJxFF8wgZDZD",
+                "expiration_date": "2015-10-12T18:09:55.163Z",
+                "id": "10204933520520602"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$aqbnRmOklbPJK/0mrC5m1Ou3Z4JdQGsAYrnA7RBRBBmfhEiOneExa",
+        "belt": "Orange",
+        "beltNumber": 0,
+        "blocks": 0,
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "MztfPPEJ6F"
+        },
+        "createdAt": "2015-08-13T22:09:56.299Z",
+        "firstName": "Bambi",
+        "gender": "female",
+        "lastName": "Day",
+        "levelPoints": 1,
+        "minutesFree": 0,
+        "objectId": "x4sdEjhPEX",
+        "score": 216,
+        "sessionToken": "EqtARKrJPOm2i2MzZJX9pilaS",
+        "unlockCount": 1,
+        "updatedAt": "2015-09-14T01:01:34.793Z",
+        "username": "Bambi Day"
+    },
+	{
+        "AdvSetDeviceIsNotOBDDeviceEnable": 0,
+        "AdvSetDeviceIsOBDDeviceEnable": 1,
+        "AdvSetImParkedOptionEnable": 0,
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetPortraitUnlockEnable": 0,
+        "AdvSetShortDisengageTimeoutEnable": 0,
+        "AdvSetShortReconnectTimerEnable": 0,
+        "AdvSetShowManualEngageEnable": 0,
+        "AdvSetShowNotiAlwaysEnable": 0,
+        "AdvSetShowReportSendFeatureEnable": 0,
+        "AdvSetTestCampaignsEnable": 0,
+        "AppVersion": "0.72",
+        "BTaddress": "88:1B:99:00:2A:DB",
+        "BTname": "Carista",
+        "OSversion": "22",
+        "RptLastSend": "",
+        "achDates": {
+            "00000001": {
+                "__type": "Date",
+                "iso": "2015-10-03T22:50:29.000Z"
+            },
+            "00020000": {
+                "__type": "Date",
+                "iso": "2015-10-04T13:39:38.106Z"
+            },
+            "00200000": {
+                "__type": "Date",
+                "iso": "2015-10-04T13:39:38.494Z"
+            },
+            "00400000": {
+                "__type": "Date",
+                "iso": "2015-10-04T11:31:23.000Z"
+            }
+        },
+        "achievements": "00620001",
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABAE3LyTmZCgdz3SAT8E6hJhUtPZAEpgE9BJjn8D0dxG3ZCTywtZBSbNf0aUITcrDtZBMUTW6wnwUcQInMvsa06NUyZBnZAdcUpfZBtNWgqQOBPGXPSFuv7hcapbau5jxqANvR0EYQHD3VoVxgnNU7ZAbVP2CFOJvGoZCU5qrMZC8sXtKX7ICZBs8UjP0ZD",
+                "expiration_date": "2015-12-02T22:50:29.784Z",
+                "id": "153171431680771"
+            }
+        },
+        "autoReplies": 0,
+        "autoReplyEnabled": 1,
+        "autoReplyText": "TextNinja is protecting the driver; Message saved. http://text.ninja  #X",
+        "bcryptPassword": "$2a$10$sCGFm1AtXB4WxFYD5pRgz.R9r6buguFPJ8U7nnNWulGOFAD/JFmmK",
+        "belt": "Green",
+        "beltNumber": 1,
+        "blocks": 0,
+        "createdAt": "2015-10-04T03:50:30.735Z",
+        "firstName": "Nancy",
+        "gender": "female",
+        "lastName": "Martinazzison",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "07VXYwsvA0"
+        },
+        "levelPoints": 34,
+        "minutesFree": 51,
+        "objectId": "zUiEUVdJ2s",
+        "score": 53,
+        "sessionToken": "NL95j2Y1J8msIb7hrjZSXVSFA",
+        "unlockCount": 0,
+        "updatedAt": "2015-10-04T21:45:32.425Z",
+        "username": "Nancy Martinazzison"
+    },
+	{
+        "AdvSetNotificationAchBeltEnable": 1,
+        "AdvSetShowManualEngageEnable": 0,
+        "authData": {
+            "facebook": {
+                "access_token": "CAALHbfqFSrABADl8N31s0toranVxRlFDXbPCycKpRXcBMkFi3xNENowYsWBf5ja6Vl0s9WB0mwOM1rptPFxj1HgfdZCZAXJtNY8qUrVYZBiZAssUBs0rClB5ZAw1LiNO4KPoMbU74dZAAZCIvOqITU5RfrLdhnQFZBAV8nZAO7dlsbypr3M11NM3dbVfhcC6fQx2ZAkx0UniZCeire4CbODSZA4L",
+                "expiration_date": "2015-07-03T18:36:24.244Z",
+                "id": "10152513628011158"
+            }
+        },
+        "bcryptPassword": "$2a$10$HlM0rar3o3HpJeaN.RFSc.z2KOtomZQ7Z2v9q9R6wJkYWPXjnPBqi",
+        "campaignActive": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "campaignUserActive": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "y8gu0XRz9f"
+        },
+        "createdAt": "2015-05-04T23:40:38.195Z",
+        "firstName": "Nick",
+        "gender": "male",
+        "lastName": "Maschinski",
+        "leaderboardCampaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "leaderboardCampaignUser": {
+            "__type": "Pointer",
+            "className": "CampaignUser",
+            "objectId": "y8gu0XRz9f"
+        },
+        "objectId": "zctGZ2pmcg",
+        "sessionToken": "7WOMVWFPYvaZ0k7ze7lmimmCd",
+        "updatedAt": "2015-09-14T01:01:43.060Z",
+        "username": "Nick Maschinski"
+    }
+] }

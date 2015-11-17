@@ -1,0 +1,6602 @@
+{ "results": [
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.789Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-28T23:59:59.000Z"
+        },
+        "objectId": "0D0VJDSdQX",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.789Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-15T23:59:59.000Z"
+        },
+        "objectId": "0EC0yx0Nu1",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-31T23:59:59.000Z"
+        },
+        "objectId": "0FOu4kzyV2",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:34.454Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.464Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-18T23:59:59.000Z"
+        },
+        "objectId": "0LvbQVQhXL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.464Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.783Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-18T23:59:59.000Z"
+        },
+        "objectId": "0XJSORD2VZ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-19T04:21:43.016Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-24T23:59:59.000Z"
+        },
+        "objectId": "0Yn1zw1MRu",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.170Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-05T23:59:59.000Z"
+        },
+        "objectId": "0ZG4yugISu",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 5,
+        "totalPoints": 5,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-06T04:55:52.588Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.829Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-09T23:59:59.000Z"
+        },
+        "objectId": "0e6LrX9O0C",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.829Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-21T23:59:59.000Z"
+        },
+        "objectId": "10m2moUqvb",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:01.454Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-09T23:59:59.000Z"
+        },
+        "objectId": "1FGkK1udKi",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:24.106Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.500Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-03T23:59:59.000Z"
+        },
+        "objectId": "1KNRohUGod",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-03T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.500Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.455Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "objectId": "1Tv7YJsimf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-12-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:34.455Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-12T23:59:59.000Z"
+        },
+        "objectId": "1aw1vEokZJ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.881Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.880Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-10T23:59:59.000Z"
+        },
+        "objectId": "1yG8iBaNM8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.880Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.170Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-08T23:59:59.000Z"
+        },
+        "objectId": "2I0yut5C7f",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.170Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-22T23:59:59.000Z"
+        },
+        "objectId": "2MqsIXGK1Q",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.403Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-30T23:59:59.000Z"
+        },
+        "objectId": "2USCdh7PB3",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.403Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.604Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-13T23:59:59.000Z"
+        },
+        "objectId": "2aZI1klbWv",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.604Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.827Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-20T23:59:59.000Z"
+        },
+        "objectId": "2gz0Ugq1fo",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.827Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.170Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-29T23:59:59.000Z"
+        },
+        "objectId": "39xQqjDmeg",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 84,
+        "totalPoints": 84,
+        "totalUserContributions": 5,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-29T22:43:31.161Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.377Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-25T23:59:59.000Z"
+        },
+        "objectId": "3FQrX0nGg8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 9,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-26T02:25:47.754Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-23T23:59:59.000Z"
+        },
+        "objectId": "3GZDdfBGRh",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.308Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-28T23:59:59.000Z"
+        },
+        "objectId": "3U48cbBTve",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.308Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-24T23:59:59.000Z"
+        },
+        "objectId": "3W5rv19SXC",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 44,
+        "totalPoints": 44,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-24T23:43:57.864Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-09T23:59:59.000Z"
+        },
+        "objectId": "3l2yDP0oug",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.171Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.787Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-23T23:59:59.000Z"
+        },
+        "objectId": "3tC3b3VhUn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-23T00:48:01.076Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.423Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-03T23:59:59.000Z"
+        },
+        "objectId": "3yEwgc789E",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-03T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.423Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-31T23:59:59.000Z"
+        },
+        "objectId": "4DGjbpM9Dx",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:34.454Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.826Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-07T23:59:59.000Z"
+        },
+        "objectId": "4MDKQm5RTK",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.826Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.601Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-04T23:59:59.000Z"
+        },
+        "objectId": "4T4JJUU8GR",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.601Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-23T23:59:59.000Z"
+        },
+        "objectId": "4YSOUKa63u",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.631Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-31T23:59:59.000Z"
+        },
+        "objectId": "4Zq1OuxlMe",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:20.631Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-03T23:59:59.000Z"
+        },
+        "objectId": "4qyn4rWzAf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-03T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-17T23:59:59.000Z"
+        },
+        "objectId": "5J4dLLbpnc",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 30,
+        "totalPoints": 30,
+        "totalUserContributions": 3,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-17T16:55:34.910Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.827Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-19T23:59:59.000Z"
+        },
+        "objectId": "5a6oGzs3bf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-19T17:18:02.432Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.787Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-24T23:59:59.000Z"
+        },
+        "objectId": "5pT36wItvV",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.787Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.606Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "objectId": "5ttVet5uvw",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.606Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.104Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-16T23:59:59.000Z"
+        },
+        "objectId": "6B0yPhamk5",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 46,
+        "totalPoints": 46,
+        "totalUserContributions": 1,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-16T14:59:24.343Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.460Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-17T23:59:59.000Z"
+        },
+        "objectId": "6CaGnbmkKa",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 3,
+        "totalMinutes": 31,
+        "totalPoints": 34,
+        "totalUserContributions": 1,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-18T00:32:48.092Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.382Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-26T23:59:59.000Z"
+        },
+        "objectId": "6iM9hDzeTp",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 30,
+        "totalMinutes": 60,
+        "totalPoints": 90,
+        "totalUserContributions": 3,
+        "totalUserJoins": 7,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-27T02:05:06.827Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.464Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "objectId": "7HSggG0MIG",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.464Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-28T23:59:59.000Z"
+        },
+        "objectId": "7P8l2PDhgj",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.789Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-03T23:59:59.000Z"
+        },
+        "objectId": "7SSvNik2qf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-03T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.789Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-15T23:59:59.000Z"
+        },
+        "objectId": "7r0WjEieN6",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.782Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-16T23:59:59.000Z"
+        },
+        "objectId": "83yJ5kfc8l",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.782Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.463Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-13T23:59:59.000Z"
+        },
+        "objectId": "8XvvIqJ8PP",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.463Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-19T23:59:59.000Z"
+        },
+        "objectId": "8dw96p99CZ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-19T21:34:59.277Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:38.835Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-27T23:59:59.000Z"
+        },
+        "objectId": "8n016caDOw",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 2,
+        "totalMinutes": 80,
+        "totalPoints": 82,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-28T01:39:46.090Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.077Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-25T23:59:59.000Z"
+        },
+        "objectId": "8r2JZEoOX8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 2,
+        "totalPoints": 3,
+        "totalUserContributions": 2,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-25T22:47:56.788Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.172Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-30T23:59:59.000Z"
+        },
+        "objectId": "8rtKu3B4HM",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 94,
+        "totalPoints": 94,
+        "totalUserContributions": 6,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-30T20:09:34.350Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.104Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-15T23:59:59.000Z"
+        },
+        "objectId": "8za0i8nxAk",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 41,
+        "totalPoints": 42,
+        "totalUserContributions": 4,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-15T23:15:14.835Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.601Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-05T23:59:59.000Z"
+        },
+        "objectId": "9Yl3w0czvp",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.601Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.461Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-22T23:59:59.000Z"
+        },
+        "objectId": "9mnT6oIOmW",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.461Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.604Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-14T23:59:59.000Z"
+        },
+        "objectId": "A9r2UPP5Ut",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.604Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.455Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-10-31T23:59:59.000Z"
+        },
+        "objectId": "AKZfLIF6Hn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-10-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:34.455Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.607Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-16T23:59:59.000Z"
+        },
+        "objectId": "Azq5wp3XKT",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.607Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.603Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-07T23:59:59.000Z"
+        },
+        "objectId": "BcUWGXhqRF",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.603Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-08-27T22:50:04.785Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2016-04-30T23:59:59.000Z"
+        },
+        "objectId": "BivGuq95aG",
+        "start": {
+            "__type": "Date",
+            "iso": "2016-04-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T22:50:04.785Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.077Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-20T23:59:59.000Z"
+        },
+        "objectId": "ByYDOr4Jce",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:56.061Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.452Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-09T23:59:59.000Z"
+        },
+        "objectId": "CJgdwJON8x",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 6,
+        "totalPoints": 6,
+        "totalUserContributions": 1,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T23:08:45.878Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-14T23:59:59.000Z"
+        },
+        "objectId": "CKcnopBVIL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-15T03:10:04.676Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.079Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-31T23:59:59.000Z"
+        },
+        "objectId": "CgI0pDZQVW",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-31T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.079Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.608Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-17T23:59:59.000Z"
+        },
+        "objectId": "DCltHrpKb2",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.608Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.410Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-01T23:59:59.000Z"
+        },
+        "objectId": "DkWdWb93ZT",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.410Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.864Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-07T23:59:59.000Z"
+        },
+        "objectId": "DsmUx2fSrc",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.864Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-26T23:59:59.000Z"
+        },
+        "objectId": "EXNPp8h42B",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-08-27T19:31:33.733Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2016-01-31T23:59:59.000Z"
+        },
+        "objectId": "EXxI6Qdlch",
+        "start": {
+            "__type": "Date",
+            "iso": "2016-01-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T19:31:33.733Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-08-27T19:31:33.734Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2016-02-29T23:59:00.000Z"
+        },
+        "objectId": "EdhZrLDbyI",
+        "start": {
+            "__type": "Date",
+            "iso": "2016-02-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T19:31:33.734Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.785Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-19T23:59:59.000Z"
+        },
+        "objectId": "G7lFzlDP9b",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.785Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.169Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-03T23:59:59.000Z"
+        },
+        "objectId": "GBJORTj6FR",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-03T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.169Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-09T23:59:59.000Z"
+        },
+        "objectId": "GJgOTLhuAq",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.865Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.503Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-02T23:59:59.000Z"
+        },
+        "objectId": "GRJalPFyn8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-02T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.503Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-22T23:59:59.000Z"
+        },
+        "objectId": "GaFMMLN1dH",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.881Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.783Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-12T23:59:59.000Z"
+        },
+        "objectId": "GdykXczgUt",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.783Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-01T23:59:59.000Z"
+        },
+        "objectId": "GqL7upUcrO",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.607Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-15T23:59:59.000Z"
+        },
+        "objectId": "H5Ul2lF0rm",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.607Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.631Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-10-31T23:59:59.000Z"
+        },
+        "objectId": "HfHeiPZySC",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-10-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:20.631Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.630Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-06-30T23:59:59.000Z"
+        },
+        "objectId": "Hk15OtIxSO",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-06-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 36,
+        "totalMinutes": 98,
+        "totalPoints": 232,
+        "totalUserContributions": 16,
+        "totalUserJoins": 13,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-30T03:46:39.685Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-13T23:59:59.000Z"
+        },
+        "objectId": "HpmFgVx6Np",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 3,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-14T02:54:52.094Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-20T23:59:59.000Z"
+        },
+        "objectId": "HspTKx9Qj5",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.781Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-05T23:59:59.000Z"
+        },
+        "objectId": "Hvot4pO38P",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.781Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.452Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-12T23:59:59.000Z"
+        },
+        "objectId": "Hyiy9DxThs",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 2,
+        "totalPoints": 3,
+        "totalUserContributions": 2,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-12T21:51:29.216Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.500Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-01T23:59:59.000Z"
+        },
+        "objectId": "I4DCBR2AqD",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.500Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.460Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-19T23:59:59.000Z"
+        },
+        "objectId": "IOasG8iC1R",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.460Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-23T23:59:59.000Z"
+        },
+        "objectId": "IhXafTjvby",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:01.453Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-06T23:59:59.000Z"
+        },
+        "objectId": "JBGNxJgrWt",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.171Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.076Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-21T23:59:59.000Z"
+        },
+        "objectId": "JKofodLFWs",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.076Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.498Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-28T23:59:59.000Z"
+        },
+        "objectId": "JM8r5pujNf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-29T01:52:44.681Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.826Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "objectId": "JSGdMTrW1Q",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.826Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.308Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-04T23:59:59.000Z"
+        },
+        "objectId": "JVtQOsGAKL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.308Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.460Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:23:59.000Z"
+        },
+        "objectId": "Jm2WOqysm4",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.460Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.107Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-12T23:59:59.000Z"
+        },
+        "objectId": "KJHwS4wskH",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:24.107Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-13T23:59:59.000Z"
+        },
+        "objectId": "KTNLFuGhUy",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 3,
+        "totalUserContributions": 3,
+        "totalUserJoins": 3,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-13T22:13:04.842Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-13T23:59:59.000Z"
+        },
+        "objectId": "LIeTpSBxia",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 1,
+        "totalUserContributions": 1,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-13T21:11:06.056Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.460Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-24T23:59:59.000Z"
+        },
+        "objectId": "LVvX0oLSRm",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.460Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.788Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-01T23:59:59.000Z"
+        },
+        "objectId": "LXO2wTRvqr",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.788Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-14T23:59:59.000Z"
+        },
+        "objectId": "LcChU1EpbK",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 1,
+        "totalMinutes": 39,
+        "totalPoints": 40,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-14T23:22:12.354Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.826Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-06T23:59:59.000Z"
+        },
+        "objectId": "Llv2Q76RCq",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.826Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-09T23:59:59.000Z"
+        },
+        "objectId": "LmcmHGJvqc",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-18T23:59:59.000Z"
+        },
+        "objectId": "LppUNGvmv7",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.463Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-14T23:59:59.000Z"
+        },
+        "objectId": "M9qerhDUaX",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.463Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.864Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-15T23:59:59.000Z"
+        },
+        "objectId": "MCX4s8lYt0",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-16T01:12:03.060Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-17T23:59:59.000Z"
+        },
+        "objectId": "MNHROOyvME",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 19,
+        "totalPoints": 19,
+        "totalUserContributions": 1,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-17T15:17:47.294Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.349Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-27T23:59:59.000Z"
+        },
+        "objectId": "NDNTPcGuor",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.349Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.880Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-23T23:59:59.000Z"
+        },
+        "objectId": "NGdUbgbmcP",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.880Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-20T23:59:59.000Z"
+        },
+        "objectId": "NNKlVA1z49",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:01.453Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.169Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-10T23:59:59.000Z"
+        },
+        "objectId": "NjPzJXOBsp",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 35,
+        "totalPoints": 35,
+        "totalUserContributions": 3,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-11T01:27:34.480Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.603Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-11T23:59:59.000Z"
+        },
+        "objectId": "NjyJghCRhE",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.603Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.463Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-09T23:59:59.000Z"
+        },
+        "objectId": "NwrQtKVbhG",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.463Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.631Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-11-30T23:59:59.000Z"
+        },
+        "objectId": "O90TQ9b3hJ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-11-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:20.631Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.455Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-06-30T23:59:59.000Z"
+        },
+        "objectId": "OTyBUNKcpA",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-06-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 2,
+        "totalUserContributions": 2,
+        "totalUserJoins": 13,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-30T03:51:16.209Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.784Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-14T23:59:59.000Z"
+        },
+        "objectId": "OpfdlhkJKn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.784Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-18T23:59:59.000Z"
+        },
+        "objectId": "OwZE5AikGZ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 4,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-19T04:03:33.527Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.783Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-17T23:59:59.000Z"
+        },
+        "objectId": "OxxhiY4tOg",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.783Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.347Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-23T23:59:59.000Z"
+        },
+        "objectId": "P9Ir6fFhAA",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.347Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.500Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-07T23:59:59.000Z"
+        },
+        "objectId": "PMBfmk1Jsu",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.500Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.784Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-20T23:59:59.000Z"
+        },
+        "objectId": "POfdimsl03",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.784Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.460Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-20T23:59:59.000Z"
+        },
+        "objectId": "PeqoUqS1N8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.460Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.827Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-11T23:59:59.000Z"
+        },
+        "objectId": "PmOlYryqWn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.827Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.463Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-10T23:59:59.000Z"
+        },
+        "objectId": "PnmtnOkkxn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.463Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:38.835Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-26T23:59:59.000Z"
+        },
+        "objectId": "QJjq68U7wt",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:38.835Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.452Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-16T23:59:59.000Z"
+        },
+        "objectId": "Qb25s92D4j",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 62,
+        "totalPoints": 62,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-16T17:43:06.278Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "objectId": "R4oeuISgRK",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.788Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-02T23:59:59.000Z"
+        },
+        "objectId": "RJkYXaoHv2",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-02T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.788Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.461Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-21T23:59:59.000Z"
+        },
+        "objectId": "RZQwIEfF2B",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.461Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-12T23:59:59.000Z"
+        },
+        "objectId": "Rdm3DVkxU5",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.501Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-10T23:59:59.000Z"
+        },
+        "objectId": "RfpVBYgMUE",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-11T01:35:10.000Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.497Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-29T23:59:59.000Z"
+        },
+        "objectId": "RxhR91TZkz",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 64,
+        "totalPoints": 64,
+        "totalUserContributions": 1,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-29T11:49:59.694Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.788Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-25T23:59:59.000Z"
+        },
+        "objectId": "S76unC2pSn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.788Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.786Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-22T23:59:59.000Z"
+        },
+        "objectId": "SERIJXpA0F",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.786Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-19T23:59:59.000Z"
+        },
+        "objectId": "SFUySoRMn1",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.881Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-22T23:59:59.000Z"
+        },
+        "objectId": "SQLwZZ7Obw",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:01.454Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.606Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-10T23:59:59.000Z"
+        },
+        "objectId": "SjL7oEJEig",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.606Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.826Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-18T23:59:59.000Z"
+        },
+        "objectId": "T4XL8DAdiA",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.826Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.307Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-18T23:59:59.000Z"
+        },
+        "objectId": "T9Zm4NDYT7",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.307Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "objectId": "TY6AM10SR0",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-12T02:57:58.458Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-13T23:59:59.000Z"
+        },
+        "objectId": "UExbWEIzFM",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.881Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.308Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-01T23:59:59.000Z"
+        },
+        "objectId": "UWkFBUB3Va",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.308Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.348Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-23T23:59:59.000Z"
+        },
+        "objectId": "Uq5p819doL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.348Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.603Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-06T23:59:59.000Z"
+        },
+        "objectId": "UvaTQCCnNT",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.603Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.504Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "objectId": "UyGpsAWL3g",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.504Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-12T23:59:59.000Z"
+        },
+        "objectId": "V04jvpO9X6",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.865Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-25T23:59:59.000Z"
+        },
+        "objectId": "VNfynSC6ma",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-12T23:59:59.000Z"
+        },
+        "objectId": "VThjG6cvZs",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.171Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.864Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-10T23:59:59.000Z"
+        },
+        "objectId": "Vs9eE9S92j",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.864Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.783Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-13T23:59:59.000Z"
+        },
+        "objectId": "VsoS8VgWDX",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.783Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-10T23:59:59.000Z"
+        },
+        "objectId": "VuhbFMPCp1",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:01.453Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "objectId": "VvKJpcZzAH",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.790Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-05T23:59:59.000Z"
+        },
+        "objectId": "WAxJbbBDo7",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 32,
+        "totalPoints": 32,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-05-05T02:10:13.160Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.497Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-26T23:59:59.000Z"
+        },
+        "objectId": "WjHvpU5kY4",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.497Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.502Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-07T23:59:59.000Z"
+        },
+        "objectId": "XIVWe9KYYk",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.502Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-05T23:59:59.000Z"
+        },
+        "objectId": "Xe5CiSCSm0",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.865Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.077Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-24T23:59:59.000Z"
+        },
+        "objectId": "YMSd6e8nlM",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 2,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-24T19:16:22.813Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-26T23:59:59.000Z"
+        },
+        "objectId": "YVe0UL0o0j",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-26T02:14:38.172Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.461Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-25T23:59:59.000Z"
+        },
+        "objectId": "Z1muTQIB6P",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 109,
+        "totalPoints": 110,
+        "totalUserContributions": 5,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-26T03:45:44.449Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-21T23:59:59.000Z"
+        },
+        "objectId": "ZKorh8ANtu",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 238,
+        "totalPoints": 238,
+        "totalUserContributions": 14,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-21T23:52:12.615Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "objectId": "ZPvlGVq245",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.881Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.788Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-04T23:59:59.000Z"
+        },
+        "objectId": "ZV4jxmYWjr",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-05-04T23:42:26.434Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-05-02T23:59:59.000Z"
+        },
+        "objectId": "aGQIZiBXTQ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-05-02T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.630Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:59:59.000Z"
+        },
+        "objectId": "aHKiyh3zvA",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:20.630Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.499Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-31T23:59:59.000Z"
+        },
+        "objectId": "aPFZ70rJOy",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-31T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.499Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.172Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-16T23:59:59.000Z"
+        },
+        "objectId": "azA3BSEPFj",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 3,
+        "totalMinutes": 46,
+        "totalPoints": 51,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-16T23:47:00.354Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.502Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-06T23:59:59.000Z"
+        },
+        "objectId": "bAOuGtj3KL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.502Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.828Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-14T23:59:59.000Z"
+        },
+        "objectId": "bsggd5FSSm",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.828Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.463Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-19T23:59:59.000Z"
+        },
+        "objectId": "btL6VWZwAe",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.463Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-18T23:59:59.000Z"
+        },
+        "objectId": "c6jPNgdHC6",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 53,
+        "totalPoints": 56,
+        "totalUserContributions": 7,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-18T18:54:15.580Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-14T23:59:59.000Z"
+        },
+        "objectId": "c7icGCWUyb",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-11T23:59:59.000Z"
+        },
+        "objectId": "cDK8lW1DYI",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 4,
+        "totalPoints": 4,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-12T02:48:47.679Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.501Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "objectId": "cYVK9wT4w0",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.501Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.464Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-24T23:59:59.000Z"
+        },
+        "objectId": "cdxfhEPlbp",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.464Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.499Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-30T23:59:59.000Z"
+        },
+        "objectId": "cl3AnBSzHz",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.499Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.170Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-02T23:59:59.000Z"
+        },
+        "objectId": "dBtqFXDPJY",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-02T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 60,
+        "totalPoints": 60,
+        "totalUserContributions": 1,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-02T19:25:08.320Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.107Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "objectId": "dQT8OqItGY",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:24.107Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.605Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-19T23:59:59.000Z"
+        },
+        "objectId": "dXtPLaSsQf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.605Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.787Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-30T23:59:59.000Z"
+        },
+        "objectId": "daLiYAO0uw",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.787Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.828Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-17T23:59:59.000Z"
+        },
+        "objectId": "eI45jH6prN",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.828Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.789Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-29T23:59:59.000Z"
+        },
+        "objectId": "eIGh01z1NC",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.789Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.306Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-22T23:59:59.000Z"
+        },
+        "objectId": "eQs1LxIdfI",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.306Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.866Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-20T23:59:59.000Z"
+        },
+        "objectId": "eQwdZKg3qN",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.866Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-30T23:59:59.000Z"
+        },
+        "objectId": "eR0dWrkYZ6",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 15,
+        "totalPoints": 16,
+        "totalUserContributions": 3,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-30T22:25:10.470Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-17T23:59:59.000Z"
+        },
+        "objectId": "eiJeoG555o",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.783Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-19T23:59:59.000Z"
+        },
+        "objectId": "f9iyRvjujf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-19T20:18:39.751Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-02T23:59:59.000Z"
+        },
+        "objectId": "fBnDE2jEMP",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-02T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.864Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-17T23:59:59.000Z"
+        },
+        "objectId": "fD6xq3w6Mk",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.864Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.461Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-29T23:59:59.000Z"
+        },
+        "objectId": "fYkHkSY2vP",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.461Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.781Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-07T23:59:59.000Z"
+        },
+        "objectId": "fc4vDJOuh8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.781Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.105Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-23T23:59:59.000Z"
+        },
+        "objectId": "fswhxvitgW",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 1,
+        "totalMinutes": 57,
+        "totalPoints": 58,
+        "totalUserContributions": 2,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-23T23:03:25.658Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.866Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-16T23:59:59.000Z"
+        },
+        "objectId": "g8u6ejkvCw",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.866Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.827Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-10T23:59:59.000Z"
+        },
+        "objectId": "gSIHTd0wrf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.827Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.169Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-07T23:59:59.000Z"
+        },
+        "objectId": "gemkDzD6l5",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-07T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.169Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-30T23:59:59.000Z"
+        },
+        "objectId": "grbMzTymQi",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:34.454Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.825Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-04T23:59:59.000Z"
+        },
+        "objectId": "hQ3zqhpDwI",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.825Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.170Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-15T23:59:59.000Z"
+        },
+        "objectId": "i5DWdjMyj3",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 2,
+        "totalMinutes": 63,
+        "totalPoints": 66,
+        "totalUserContributions": 3,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-16T02:06:22.992Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.782Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-10T23:59:59.000Z"
+        },
+        "objectId": "iUCcFjoGs5",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.782Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-14T23:59:59.000Z"
+        },
+        "objectId": "iatZhAQwJz",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 8,
+        "totalPoints": 12,
+        "totalUserContributions": 10,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-15T03:13:18.806Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.502Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-08T23:59:59.000Z"
+        },
+        "objectId": "j4s1cVL29x",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.502Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-30T23:59:59.000Z"
+        },
+        "objectId": "jDcN9jucbv",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-30T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.407Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-31T23:59:59.000Z"
+        },
+        "objectId": "jJkQRaeHjc",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-31T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.407Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "objectId": "jT0oktFXHj",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-25T21:36:48.485Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.420Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-02T23:59:59.000Z"
+        },
+        "objectId": "jmGAmLIRAn",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-02T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.420Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.863Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "objectId": "kE3QGbdZtb",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.863Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.077Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-29T23:59:59.000Z"
+        },
+        "objectId": "kYHfWpSjws",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.077Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.493Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-05T23:59:59.000Z"
+        },
+        "objectId": "kcS2KjvkKg",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 40,
+        "totalMinutes": 80,
+        "totalPoints": 60,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-06T02:39:01.773Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.497Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-06T23:59:59.000Z"
+        },
+        "objectId": "kmnVCApajY",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 10,
+        "totalMinutes": 20,
+        "totalPoints": 30,
+        "totalUserContributions": 1,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-06T02:56:42.533Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.824Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-13T23:59:59.000Z"
+        },
+        "objectId": "krt4dUy3WV",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.824Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.786Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-15T23:59:59.000Z"
+        },
+        "objectId": "l7NFgO5eXH",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-16T01:36:58.522Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.630Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-31T23:59:59.000Z"
+        },
+        "objectId": "lHe77LECEO",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:20.630Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.787Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "objectId": "lU9XwvHBYP",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.787Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.496Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-27T23:59:59.000Z"
+        },
+        "objectId": "lcggq3NrbK",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:39:00.625Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.782Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-08T23:59:59.000Z"
+        },
+        "objectId": "mHJcptjjbf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-08T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.782Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.079Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-05T23:59:59.000Z"
+        },
+        "objectId": "mP8AVX0nAM",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.079Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.604Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-18T23:59:59.000Z"
+        },
+        "objectId": "mkcxNWIuHx",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.604Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.788Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-26T23:59:59.000Z"
+        },
+        "objectId": "muEdGHSyRy",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.788Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-01T23:59:59.000Z"
+        },
+        "objectId": "mzyAN0948f",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.171Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-07-27T23:59:59.000Z"
+        },
+        "objectId": "nBYBAqIRLd",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-07-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.866Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-06T23:59:59.000Z"
+        },
+        "objectId": "nji5LSIzkY",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.866Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.169Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-31T23:59:59.000Z"
+        },
+        "objectId": "nsOqPMJW8o",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-31T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 6,
+        "totalMinutes": 176,
+        "totalPoints": 182,
+        "totalUserContributions": 10,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-31T23:54:30.584Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.454Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-24T23:59:59.000Z"
+        },
+        "objectId": "ntQnC1ekzf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:01.454Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.606Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-09T23:59:59.000Z"
+        },
+        "objectId": "nwwxx7u5bm",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.606Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.826Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-15T23:59:59.000Z"
+        },
+        "objectId": "nx4IItnDIh",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.826Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.461Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-18T23:59:59.000Z"
+        },
+        "objectId": "nyKEFRvRQY",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.461Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.462Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-28T23:59:59.000Z"
+        },
+        "objectId": "obBGDl8xDw",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 45,
+        "totalPoints": 45,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-28T23:04:22.754Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.078Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-03T23:59:59.000Z"
+        },
+        "objectId": "pQoHEt9nLJ",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-03T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.078Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-08-27T22:50:04.784Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2016-03-31T23:59:59.000Z"
+        },
+        "objectId": "pXgRAPzNHC",
+        "start": {
+            "__type": "Date",
+            "iso": "2016-03-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T22:50:04.784Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.825Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-12T23:59:59.000Z"
+        },
+        "objectId": "piMgpwa1Az",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.825Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-20T23:59:59.000Z"
+        },
+        "objectId": "qCr8SlS4AL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-19T23:59:59.000Z"
+        },
+        "objectId": "qiNo1tTBnf",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 434,
+        "totalPoints": 20,
+        "totalUserContributions": 2,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-19T12:07:26.253Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.606Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-20T23:59:59.000Z"
+        },
+        "objectId": "qveFOrxuWy",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.606Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.107Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-25T23:59:59.000Z"
+        },
+        "objectId": "r5C6nj0C40",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-25T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 27,
+        "totalPoints": 27,
+        "totalUserContributions": 2,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-25T22:26:58.000Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.782Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-09T23:59:59.000Z"
+        },
+        "objectId": "r7440cNEyR",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.782Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.172Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-28T23:59:59.000Z"
+        },
+        "objectId": "rfnqYHk14q",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 244,
+        "totalPoints": 244,
+        "totalUserContributions": 11,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-29T01:34:21.759Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.864Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "objectId": "rk9Sf4Q97U",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.864Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.865Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-19T23:59:59.000Z"
+        },
+        "objectId": "sakyQn2IAW",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-19T20:19:00.317Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "k2pePrjnec"
+        },
+        "createdAt": "2015-04-05T00:00:33.603Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-12T23:59:59.000Z"
+        },
+        "objectId": "snPmq1NDRb",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-12T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:33.603Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.502Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-09T23:59:59.000Z"
+        },
+        "objectId": "tEBF7lA3LP",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-09T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.502Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-19T23:59:59.000Z"
+        },
+        "objectId": "tX4jFiEepa",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-19T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 67,
+        "totalPoints": 67,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-19T23:55:21.608Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.781Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-11T23:59:59.000Z"
+        },
+        "objectId": "tmswubE6sp",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.781Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.828Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-05T23:59:59.000Z"
+        },
+        "objectId": "uHFSymJYvi",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-05T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.828Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.106Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-18T23:59:59.000Z"
+        },
+        "objectId": "uIlngtYZiD",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-18T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-18T16:53:31.639Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.370Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-24T23:59:59.000Z"
+        },
+        "objectId": "uL9nlUIJX6",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.370Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.105Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-22T23:59:59.000Z"
+        },
+        "objectId": "uOMXGDGbKq",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 33,
+        "totalPoints": 33,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-22T23:39:55.823Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.781Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-06T23:59:59.000Z"
+        },
+        "objectId": "uPu9gZFZF1",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-06T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.781Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "eD8oqFXCCT"
+        },
+        "createdAt": "2015-06-27T21:31:20.631Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-12-31T23:59:59.000Z"
+        },
+        "objectId": "uQxFFW9e9k",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-12-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:20.631Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.105Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-10T23:59:59.000Z"
+        },
+        "objectId": "uSm5xoxp5J",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-10T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:24.105Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.399Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-29T23:59:59.000Z"
+        },
+        "objectId": "uXBemU5sa0",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.399Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "bvan0s4YwX"
+        },
+        "createdAt": "2015-06-27T21:31:34.455Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-11-30T23:59:59.000Z"
+        },
+        "objectId": "uaN5ntCvht",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-11-01T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-06-27T21:31:34.455Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.464Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-21T23:59:59.000Z"
+        },
+        "objectId": "udMxWIhn7d",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.464Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.784Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-20T23:59:59.000Z"
+        },
+        "objectId": "vHQIrW252U",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:08:51.310Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-16T23:59:59.000Z"
+        },
+        "objectId": "vKqh1mcXeX",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.881Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.306Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "objectId": "vbakhev8fi",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.306Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.395Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-28T23:59:59.000Z"
+        },
+        "objectId": "vncv30gW6Z",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-28T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 10,
+        "totalMinutes": 20,
+        "totalPoints": 30,
+        "totalUserContributions": 1,
+        "totalUserJoins": 2,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-28T15:53:24.686Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.105Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-14T23:59:59.000Z"
+        },
+        "objectId": "voBboK4uv2",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-14T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 44,
+        "totalPoints": 44,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-14T22:48:17.201Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-09T21:37:01.453Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-15T23:59:59.000Z"
+        },
+        "objectId": "vuRW79RFG8",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-15T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 59,
+        "totalPoints": 70,
+        "totalUserContributions": 4,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-15T20:37:21.847Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.499Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-04T23:59:59.000Z"
+        },
+        "objectId": "wm5U5qG4Py",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.499Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "1ffPF1zhtJ"
+        },
+        "createdAt": "2015-04-20T02:05:15.789Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-27T23:59:59.000Z"
+        },
+        "objectId": "wncbXQpfXr",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-20T02:05:15.789Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "HJ6V1F9pFD"
+        },
+        "createdAt": "2015-04-05T13:56:59.863Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-11T23:59:59.000Z"
+        },
+        "objectId": "xMsSD7LPqO",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:59.863Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.464Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-16T23:59:59.000Z"
+        },
+        "objectId": "xVkqUcyRzH",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.464Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Lsp0Id3g6L"
+        },
+        "createdAt": "2015-04-05T13:56:58.784Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-21T23:59:59.000Z"
+        },
+        "objectId": "xZTdAupVo0",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T13:56:58.784Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.461Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-26T23:59:59.000Z"
+        },
+        "objectId": "xisTJfMZJq",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-26T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.461Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "ysRfUop6pX"
+        },
+        "createdAt": "2015-08-09T21:39:24.105Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-20T23:59:59.000Z"
+        },
+        "objectId": "xlUTHq6hgN",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 38,
+        "totalPoints": 38,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-20T15:33:14.388Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "CV6BSVBk0P"
+        },
+        "createdAt": "2015-04-05T00:00:32.825Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-16T23:59:59.000Z"
+        },
+        "objectId": "xss2W56y3a",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-16T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-05T00:00:32.825Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.881Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-24T23:59:59.000Z"
+        },
+        "objectId": "y38K33Tc6Z",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-24T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 1,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-24T20:35:44.295Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.308Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-29T23:59:59.000Z"
+        },
+        "objectId": "yWS73HQel9",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-29T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.308Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "Ky84yn36S2"
+        },
+        "createdAt": "2015-04-18T21:51:59.309Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-20T23:59:59.000Z"
+        },
+        "objectId": "ycy2DVrekz",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-20T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-18T21:51:59.309Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.171Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-13T23:59:59.000Z"
+        },
+        "objectId": "yg7rsmDvpV",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-13T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 27,
+        "totalPoints": 28,
+        "totalUserContributions": 9,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-09-14T04:09:25.311Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.391Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-03-27T23:59:59.000Z"
+        },
+        "objectId": "ynZ9KLxfGr",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-03-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-03-23T17:58:41.391Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "7oNnavL0q1"
+        },
+        "createdAt": "2015-08-09T21:37:54.882Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-21T23:59:59.000Z"
+        },
+        "objectId": "z1CLn7zccI",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-21T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:37:54.882Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.169Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-04T23:59:59.000Z"
+        },
+        "objectId": "z30Oinqg0H",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.169Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-22T23:59:59.000Z"
+        },
+        "objectId": "z3crtZ2XUL",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-22T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "J0m5kZwpid"
+        },
+        "createdAt": "2015-03-23T17:58:41.489Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-04-04T23:59:59.000Z"
+        },
+        "objectId": "z5diwmZNOi",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-04-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 40,
+        "totalMinutes": 80,
+        "totalPoints": 60,
+        "totalUserContributions": 2,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-04-04T16:02:33.587Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.460Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-27T23:59:59.000Z"
+        },
+        "objectId": "zOPXqcGf4g",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-27T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.460Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "4HaBidjczx"
+        },
+        "createdAt": "2015-07-27T03:35:05.502Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-11T23:59:59.000Z"
+        },
+        "objectId": "zcJnWwVo6S",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-11T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-27T03:35:05.502Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "O3AMCKBW0z"
+        },
+        "createdAt": "2015-08-09T21:39:58.465Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-17T23:59:59.000Z"
+        },
+        "objectId": "zfwuuiwIw1",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-17T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-09T21:39:58.465Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "DKC4mfrNx3"
+        },
+        "createdAt": "2015-07-20T23:02:17.079Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-08-04T23:59:59.000Z"
+        },
+        "objectId": "zlX0hYvK1Y",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-08-04T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-07-20T23:02:17.079Z"
+    },
+	{
+        "campaign": {
+            "__type": "Pointer",
+            "className": "Campaign",
+            "objectId": "df46dwLfRN"
+        },
+        "createdAt": "2015-08-27T18:56:39.459Z",
+        "end": {
+            "__type": "Date",
+            "iso": "2015-09-23T23:59:59.000Z"
+        },
+        "objectId": "zwBh9ew4dj",
+        "start": {
+            "__type": "Date",
+            "iso": "2015-09-23T00:00:00.000Z"
+        },
+        "totalDistractionsPrevented": 0,
+        "totalMinutes": 0,
+        "totalPoints": 0,
+        "totalUserContributions": 0,
+        "totalUserJoins": 0,
+        "totalUsers": 0,
+        "updatedAt": "2015-08-27T18:56:39.459Z"
+    }
+] }

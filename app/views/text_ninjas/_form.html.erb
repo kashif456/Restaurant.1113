@@ -1,0 +1,21 @@
+<%= form_for(@text_ninja) do |f| %>
+  <% if @text_ninja.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@text_ninja.errors.count, "error") %> prohibited this text_ninja from being saved:</h2>
+
+      <ul>
+      <% @text_ninja.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :index %><br>
+    <%= f.text_field :index %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
